@@ -1,0 +1,7563 @@
+tensor(84.0685, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(90.1596, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(83.0669, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(83.9183, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(87.3132, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(88.3535, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(82.0840, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(83.8117, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(87.8234, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(82.3649, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(77.0475, device='cuda:0')
+tensor(42.0928, device='cuda:0')
+tensor(83.3414, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(84.1159, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(86.6773, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(84.1947, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(77.7849, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(75.9426, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(84.5099, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(78.3370, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(76.5640, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(76.5759, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(63.8921, device='cuda:0')
+tensor(33.4142, device='cuda:0')
+tensor(75.4190, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(73.7176, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(70.6085, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(69.2229, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.4150, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.7328, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(69.8417, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.6386, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.1829, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(45.6191, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(55.6183, device='cuda:0')
+tensor(28.7881, device='cuda:0')
+tensor(65.4740, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(66.2973, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(65.3864, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(65.3120, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(65.0760, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.2478, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.7739, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.6137, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.7303, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(68.8091, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(54.3593, device='cuda:0')
+tensor(28.1553, device='cuda:0')
+tensor(63.6718, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.8374, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(63.3545, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.3098, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.4491, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.1742, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.4292, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.2147, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.6240, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(56.3096, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(52.8961, device='cuda:0')
+tensor(27.0857, device='cuda:0')
+tensor(63.5275, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.6849, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.7341, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(65.3643, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.5316, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(65.3976, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(66.2153, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.0169, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.3598, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(40.9726, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(53.2144, device='cuda:0')
+tensor(26.9684, device='cuda:0')
+tensor(61.5436, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.3795, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.9913, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(65.0359, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(63.4122, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(56.9956, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.5807, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.7248, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.5219, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(65.4863, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(51.6410, device='cuda:0')
+tensor(26.6546, device='cuda:0')
+tensor(61.9548, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.2749, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(62.9631, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(62.9749, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.0501, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.8629, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(55.4947, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(63.2667, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.4105, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.1352, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(52.5115, device='cuda:0')
+tensor(26.8431, device='cuda:0')
+tensor(61.1713, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.5919, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(56.3930, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.2950, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(63.2311, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.7775, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.2940, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.7848, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.7273, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(45.9288, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(51.0202, device='cuda:0')
+tensor(26.0815, device='cuda:0')
+tensor(60.4238, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.9652, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.5734, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(63.4093, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.2609, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.8803, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(63.2764, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.1850, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.7802, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(63.9751, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(52.5857, device='cuda:0')
+tensor(26.7345, device='cuda:0')
+tensor(58.9572, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.3990, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.0847, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.8069, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.0447, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.3547, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.7602, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.0272, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.9710, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.8001, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(50.8790, device='cuda:0')
+tensor(25.7423, device='cuda:0')
+tensor(61.1641, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(65.0430, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.0823, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(62.9829, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.0430, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.3755, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.4712, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.7855, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(55.3402, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(43.4935, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(51.3876, device='cuda:0')
+tensor(26.1600, device='cuda:0')
+tensor(58.6685, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(55.2865, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.1072, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(55.9079, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.4891, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(62.3782, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.9529, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.5825, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.9526, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(62.1009, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(50.9965, device='cuda:0')
+tensor(25.9825, device='cuda:0')
+tensor(59.8829, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.3054, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.6898, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.2644, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.7943, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(55.5814, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.0785, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(62.7901, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.8630, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.6896, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(51.7326, device='cuda:0')
+tensor(26.0455, device='cuda:0')
+tensor(62.6431, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.6286, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(63.1078, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.7093, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.9751, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(63.4439, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.9169, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(66.1406, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(54.0800, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(40.5750, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(50.3211, device='cuda:0')
+tensor(25.7009, device='cuda:0')
+tensor(58.4906, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(63.2999, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.4314, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.0090, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.6268, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(50.7839, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.8454, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.2479, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.6404, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.5851, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(51.1706, device='cuda:0')
+tensor(25.9858, device='cuda:0')
+tensor(57.5361, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(62.5045, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(52.2902, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(63.2222, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.9091, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.6358, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(65.4447, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(56.3914, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.4468, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.5899, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(50.3356, device='cuda:0')
+tensor(25.4654, device='cuda:0')
+tensor(63.2269, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.0526, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(62.0266, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.6694, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.4814, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.7655, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.6335, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.7887, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.8654, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(42.1256, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(51.6855, device='cuda:0')
+tensor(26.0823, device='cuda:0')
+tensor(59.0894, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(52.2592, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.5550, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.5992, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.6175, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(65.1932, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.5993, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.0067, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.8144, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.0485, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(50.4301, device='cuda:0')
+tensor(25.5691, device='cuda:0')
+tensor(60.2909, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.8947, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.1766, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.5551, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(62.5465, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.0208, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.0087, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.4459, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.8779, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.7552, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(50.6905, device='cuda:0')
+tensor(25.7881, device='cuda:0')
+tensor(64.6750, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.5283, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.3498, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(62.9623, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.3905, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.8171, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.9940, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.5669, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(62.9095, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(41.0762, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(51.2102, device='cuda:0')
+tensor(25.4766, device='cuda:0')
+tensor(52.8502, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.6998, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(56.5963, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.6823, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.3144, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.8770, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.2169, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.3493, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(56.4963, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.8826, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(50.4097, device='cuda:0')
+tensor(25.7099, device='cuda:0')
+tensor(62.1957, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.2760, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.7607, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.9343, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.9346, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.7582, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.0309, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.8539, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.7133, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.7142, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(50.7438, device='cuda:0')
+tensor(25.8398, device='cuda:0')
+tensor(59.6981, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.7331, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.1518, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.9707, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.9897, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.5654, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.6322, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.6302, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(63.6354, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(42.7560, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(51.0057, device='cuda:0')
+tensor(25.8752, device='cuda:0')
+tensor(61.3715, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.1535, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.1565, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(62.7791, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.8627, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(64.0741, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.0334, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.1745, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.6233, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(56.4800, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(50.3773, device='cuda:0')
+tensor(25.5896, device='cuda:0')
+tensor(60.4232, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.0994, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.3470, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.6009, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.6843, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.4767, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.2214, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(58.5848, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(57.2790, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.0690, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(50.3520, device='cuda:0')
+tensor(25.5000, device='cuda:0')
+tensor(61.0210, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(60.2564, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.0396, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(61.4972, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(59.0825, device='cuda:0', grad_fn=<DivBackward0>)
+Dataset({
+    features: ['bert_ids', 'bert_mask', 'gpt_ids', 'gpt_mask'],
+    num_rows: 10
+})
+tensor(28.3623, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.3859, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.3050, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.5840, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.2844, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.3541, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.4364, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.2041, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.1828, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.0459, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.3623, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.3859, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.3050, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.5840, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.2844, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.3541, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.4364, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.2041, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.1828, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.0459, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.1702, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(28.1203, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(27.8547, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(27.4114, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(26.8261, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(25.4916, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(24.8868, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(23.3283, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(21.3598, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(20.6695, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(20.0042, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(19.0039, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(18.4211, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(17.7366, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(17.1849, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(16.8871, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(16.2509, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.7065, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.5596, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(16.1510, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.9606, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.5365, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.3677, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.1423, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.2089, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7627, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(16.6580, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.4733, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.5252, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.1461, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.3941, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.8454, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7811, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.5275, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.5377, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.4839, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.5413, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.0308, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.5921, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.2589, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.4363, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.2689, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.2429, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.5758, device='cuda:0', grad_fn=<DivBackward0>)
+Dataset({
+    features: ['bert_ids', 'bert_mask', 'gpt_ids', 'gpt_mask'],
+    num_rows: 1
+})
+/usr/local/lib/python3.10/dist-packages/torch/utils/data/dataset.py:473: UserWarning: Length of split at index 1 is 0. This might result in an empty dataset.
+  warnings.warn(
+tensor(2.8184, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.8479, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.8829, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.8881, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.9024, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.7275, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.7824, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.9116, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.8426, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.8691, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.8019, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.7399, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.4521, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.3975, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.3182, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(2.0617, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.9602, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.8465, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.4208, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.5530, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.3450, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.2446, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.2608, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.1456, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.0944, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.1026, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.2359, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.9555, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.0196, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.0767, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.9951, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.8740, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.0580, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.8763, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.7116, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(1.0180, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.9543, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.9345, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.7173, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.6299, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.6496, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.6913, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.7961, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.7260, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.5804, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.6978, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.5409, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.5889, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.7428, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.7126, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(0.5974, device='cuda:0', grad_fn=<DivBackward0>)
+Dataset({
+    features: ['bert_ids', 'bert_mask', 'gpt_ids', 'gpt_mask'],
+    num_rows: 1
+})
+/usr/local/lib/python3.10/dist-packages/torch/utils/data/dataset.py:473: UserWarning: Length of split at index 1 is 0. This might result in an empty dataset.
+  warnings.warn(
+2.8405637741088867
+2.8703720569610596
+2.905568838119507
+2.9108145236968994
+2.9252660274505615
+2.7489771842956543
+2.804314613342285
+2.9345579147338867
+2.864964246749878
+2.891740322113037
+2.824005126953125
+2.7615015506744385
+2.4714407920837402
+2.416375160217285
+2.3364734649658203
+2.0778937339782715
+1.9756217002868652
+1.8610135316848755
+1.431999921798706
+1.5651848316192627
+1.3556042909622192
+1.2543789148330688
+1.2706817388534546
+1.1546467542648315
+1.102973461151123
+1.111290693283081
+1.2455867528915405
+0.9630556106567383
+1.027631402015686
+1.0851982831954956
+1.0029066801071167
+0.8809197545051575
+1.0663548707962036
+0.8832123279571533
+0.7171880006790161
+1.0260602235794067
+0.9617775678634644
+0.9418654441833496
+0.7229387760162354
+0.6348729133605957
+0.6547132134437561
+0.6967823505401611
+0.8023974299430847
+0.731675386428833
+0.5849436521530151
+0.7032918334007263
+0.5451383590698242
+0.5935776233673096
+0.7486016750335693
+0.718186616897583
+0.6020742654800415
+0.5698353052139282
+0.8932339549064636
+0.7384814023971558
+0.9023432731628418
+0.6367251873016357
+0.8600663542747498
+0.6266171932220459
+0.5931115746498108
+0.8269698023796082
+2.55884051322937
+5.11700963973999
+3.9486396312713623
+4.4398980140686035
+4.043659210205078
+2.584099531173706
+2.004581928253174
+2.9089720249176025
+6.162497520446777
+2.5246095657348633
+3.525210380554199
+2.5718326568603516
+3.447815179824829
+3.59563946723938
+2.3438591957092285
+3.5103585720062256
+1.5233217477798462
+1.8335908651351929
+1.485877513885498
+1.5320711135864258
+1.2507792711257935
+1.2493135929107666
+1.305549144744873
+1.1319383382797241
+0.9497957229614258
+0.9792321920394897
+0.9668622016906738
+1.4443901777267456
+0.911252498626709
+0.8800777196884155
+0.8233409523963928
+0.7686173915863037
+0.9229440689086914
+0.7271723747253418
+1.0209370851516724
+0.5668236017227173
+0.7521387338638306
+0.7689151763916016
+0.7685026526451111
+0.6950421929359436
+0.5929330587387085
+0.7173216938972473
+0.9447667598724365
+0.7654375433921814
+1.0354597568511963
+0.7124525904655457
+0.7233917713165283
+0.7569493651390076
+0.6379983425140381
+0.8152993321418762
+0.6685466170310974
+0.5914028882980347
+0.5578095316886902
+0.5871796607971191
+0.5603786706924438
+0.7783406972885132
+0.5664358735084534
+0.6755295395851135
+0.6743079423904419
+0.6051730513572693
+0.6053071618080139
+0.4903715252876282
+0.9034010171890259
+0.4332129955291748
+0.5224581956863403
+0.5573109984397888
+0.4969478249549866
+0.4613024592399597
+0.7525343894958496
+0.5130925178527832
+0.9633901715278625
+0.6687331199645996
+0.5735548734664917
+0.4130692481994629
+0.47332999110221863
+0.3761500120162964
+0.49254176020622253
+0.4378555715084076
+0.47640788555145264
+0.4214317202568054
+0.5064700841903687
+0.4365094304084778
+0.41375431418418884
+0.41313669085502625
+0.4526132345199585
+0.6013201475143433
+0.3607631325721741
+0.3997626006603241
+0.5475705862045288
+0.3926253914833069
+0.49796921014785767
+0.5280259847640991
+1.4069989919662476
+5.167540073394775
+5.299724102020264
+5.251161098480225
+5.43284797668457
+5.381995677947998
+5.649975776672363
+5.08074426651001
+4.982697010040283
+4.927948474884033
+5.347929000854492
+5.429154872894287
+5.504806041717529
+5.376408100128174
+4.922189712524414
+4.854607582092285
+4.9558587074279785
+4.64909553527832
+4.4706525802612305
+4.417755603790283
+4.820444107055664
+4.440614700317383
+4.338744640350342
+4.130336284637451
+4.266689777374268
+3.9804091453552246
+3.927934408187866
+3.713773250579834
+3.549220323562622
+3.401172637939453
+4.072626113891602
+3.7965052127838135
+3.866304874420166
+3.7931737899780273
+3.5645809173583984
+3.0022969245910645
+3.171323537826538
+3.392975330352783
+3.046708345413208
+3.8249711990356445
+3.1654083728790283
+3.0193567276000977
+2.7072579860687256
+2.5391128063201904
+2.7583582401275635
+2.7000153064727783
+2.784776210784912
+3.067391872406006
+2.83111834526062
+3.0530598163604736
+2.510470151901245
+2.6566548347473145
+2.9970574378967285
+2.6036369800567627
+3.1015405654907227
+2.7471611499786377
+3.0469489097595215
+2.6135029792785645
+2.565847635269165
+2.865077257156372
+2.576343059539795
+2.32330322265625
+2.603497266769409
+3.247551918029785
+2.4452621936798096
+2.7685511112213135
+2.5369393825531006
+2.8557322025299072
+2.450026512145996
+2.527740955352783
+2.394157886505127
+2.714430809020996
+2.3202860355377197
+2.6997122764587402
+2.4559402465820312
+2.691377878189087
+2.821204423904419
+2.374563455581665
+2.5632901191711426
+2.6799376010894775
+2.6858534812927246
+2.023352861404419
+2.220889091491699
+2.9873321056365967
+2.117840528488159
+2.068943500518799
+2.1648507118225098
+2.3495044708251953
+2.8624613285064697
+2.2922780513763428
+1.9763580560684204
+2.1807239055633545
+2.13639497756958
+2.0516183376312256
+2.0936341285705566
+2.637681484222412
+2.2276899814605713
+2.0746803283691406
+2.224231243133545
+2.072136402130127
+2.2765746116638184
+2.107896327972412
+2.4454386234283447
+2.392639636993408
+2.1190123558044434
+2.025771379470825
+2.019613027572632
+2.101224422454834
+2.5840089321136475
+2.8969485759735107
+3.9991517066955566
+3.5027616024017334
+6.306185245513916
+5.6079254150390625
+4.80419921875
+6.1401214599609375
+5.8349456787109375
+4.220983982086182
+6.388425827026367
+6.432071208953857
+6.907134056091309
+7.511111259460449
+6.962460041046143
+6.4419097900390625
+5.697457790374756
+5.588744163513184
+6.108917713165283
+7.461075782775879
+5.432063579559326
+5.281527042388916
+nan
+nan
+nan
+5.690068244934082
+nan
+nan
+nan
+nan
+nan
+5.181456089019775
+5.119140625
+5.578197956085205
+5.038347244262695
+4.9612603187561035
+4.986120700836182
+4.8173441886901855
+5.034356594085693
+4.948034763336182
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+5.065202713012695
+5.212734699249268
+5.255909442901611
+5.418929100036621
+5.833592414855957
+5.639105319976807
+5.084272384643555
+5.079558849334717
+4.984799385070801
+5.171242713928223
+5.454587459564209
+5.413745403289795
+5.321656227111816
+5.206546783447266
+4.501017093658447
+4.193307399749756
+4.8024678230285645
+7.495600700378418
+5.041828632354736
+7.405167579650879
+8.515801429748535
+9.383996963500977
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+4.83457088470459
+5.249423503875732
+5.253631114959717
+5.408663749694824
+5.624328136444092
+5.799289226531982
+5.408912181854248
+5.066647529602051
+5.009701251983643
+5.350376605987549
+5.544567584991455
+5.440852642059326
+5.32096529006958
+5.231359004974365
+4.916006088256836
+4.924827575683594
+4.835301876068115
+4.507528305053711
+4.471856594085693
+4.785559177398682
+4.4872236251831055
+4.331118106842041
+4.127704620361328
+4.254648208618164
+3.9008419513702393
+4.066847324371338
+3.7596397399902344
+3.73380970954895
+3.4403653144836426
+3.9793989658355713
+3.7549057006835938
+3.689516067504883
+3.973782539367676
+3.6908133029937744
+3.100475788116455
+3.3245513439178467
+3.2950730323791504
+3.141754388809204
+3.912655830383301
+3.254227638244629
+3.1470835208892822
+3.3257129192352295
+3.048787832260132
+2.9683997631073
+2.827566623687744
+3.0870048999786377
+3.000478744506836
+2.97666335105896
+3.1646785736083984
+2.865678310394287
+2.794201374053955
+2.855295419692993
+2.6828713417053223
+2.975869655609131
+2.6314375400543213
+2.8560094833374023
+2.4760451316833496
+2.742640733718872
+2.750803232192993
+2.8088862895965576
+2.401080846786499
+2.803887128829956
+2.898592710494995
+2.592169761657715
+3.008553981781006
+2.4451262950897217
+2.719876527786255
+2.564155101776123
+2.748077154159546
+2.783099412918091
+3.1364381313323975
+2.546006441116333
+2.5608720779418945
+2.6329119205474854
+3.0702924728393555
+2.776184558868408
+2.6018497943878174
+2.380847930908203
+2.4076316356658936
+2.8034119606018066
+2.1721346378326416
+2.482449769973755
+2.4783220291137695
+2.345766544342041
+2.091305732727051
+2.1926252841949463
+2.4219460487365723
+2.8274428844451904
+2.4123268127441406
+2.57170033454895
+2.4702868461608887
+2.6180191040039062
+2.107846260070801
+2.243525505065918
+2.369704008102417
+2.2333590984344482
+2.149944543838501
+2.31075119972229
+2.1129038333892822
+2.3212757110595703
+5.359241485595703
+5.392385959625244
+5.286440372467041
+5.3590288162231445
+5.425891876220703
+5.623047828674316
+5.0922956466674805
+5.042937755584717
+5.036474704742432
+5.262170314788818
+5.393060207366943
+5.598206043243408
+5.511964321136475
+4.963403701782227
+5.003121852874756
+5.068253517150879
+4.851794242858887
+4.671486854553223
+4.435877323150635
+4.4379425048828125
+4.357790946960449
+4.319889545440674
+4.222783088684082
+4.4392924308776855
+4.103611946105957
+4.161233901977539
+3.7696070671081543
+3.721506118774414
+3.9768595695495605
+3.6690211296081543
+3.958364725112915
+3.6643192768096924
+3.7771129608154297
+3.7479891777038574
+3.4216623306274414
+3.5275025367736816
+3.420022487640381
+3.641366958618164
+3.858989953994751
+3.246391773223877
+3.600796937942505
+3.3051412105560303
+3.3599326610565186
+3.0837366580963135
+2.950960397720337
+3.4869134426116943
+3.2737481594085693
+2.839503049850464
+3.179443359375
+2.7685115337371826
+2.8602664470672607
+3.2203285694122314
+2.59100341796875
+3.943897247314453
+2.6449553966522217
+2.9805715084075928
+2.7946715354919434
+2.764425754547119
+2.701521158218384
+2.9389524459838867
+2.968519926071167
+3.1745150089263916
+2.845999240875244
+2.7166998386383057
+3.0329959392547607
+2.6015172004699707
+2.8854000568389893
+2.6533946990966797
+2.667581081390381
+2.518594980239868
+2.6926016807556152
+2.3158342838287354
+2.467710494995117
+2.6218984127044678
+2.551743984222412
+2.651820421218872
+2.34393310546875
+2.5672688484191895
+2.863598108291626
+2.8616034984588623
+2.519595146179199
+2.272432565689087
+2.5514471530914307
+2.4089841842651367
+2.2850892543792725
+2.221620798110962
+2.4392104148864746
+2.5885539054870605
+2.2269396781921387
+2.3284294605255127
+2.504984140396118
+2.36090087890625
+2.024289131164551
+2.2776710987091064
+2.8409483432769775
+2.352216958999634
+2.32296085357666
+2.5589334964752197
+2.3352901935577393
+2.4906415939331055
+2.325437545776367
+2.341136932373047
+2.519827365875244
+2.494655132293701
+2.395659923553467
+2.102729082107544
+2.404794692993164
+2.2570862770080566
+2.8907158374786377
+2.3117294311523438
+3.933391809463501
+2.9387400150299072
+3.019105911254883
+2.965580940246582
+2.9583687782287598
+3.0170738697052
+2.874811887741089
+2.8832297325134277
+3.0216197967529297
+2.9446499347686768
+2.934631824493408
+3.0028254985809326
+3.013596296310425
+2.8238799571990967
+2.887974500656128
+2.860706329345703
+2.821600914001465
+2.827535629272461
+2.438181161880493
+2.4765732288360596
+2.379561424255371
+2.2254955768585205
+1.820131778717041
+1.9125540256500244
+1.9048930406570435
+1.5544027090072632
+1.5718268156051636
+1.5686748027801514
+1.6403813362121582
+1.4385899305343628
+1.8884363174438477
+1.3359625339508057
+1.4153215885162354
+1.2904901504516602
+1.3816980123519897
+1.835233449935913
+1.1839815378189087
+1.4726759195327759
+1.277198076248169
+1.5894365310668945
+1.377586841583252
+1.1703044176101685
+1.6043286323547363
+1.1702535152435303
+1.3192722797393799
+1.1480790376663208
+1.2325770854949951
+1.018725037574768
+1.2369264364242554
+1.580223798751831
+1.108014702796936
+1.1473437547683716
+0.966861367225647
+1.259604573249817
+1.1525592803955078
+1.073145866394043
+1.031128168106079
+1.0250290632247925
+1.1576850414276123
+0.9762394428253174
+1.217140793800354
+0.9543627500534058
+1.0822080373764038
+1.1877057552337646
+0.9299967288970947
+0.8886545896530151
+1.0562729835510254
+1.2093143463134766
+1.5270520448684692
+1.0461636781692505
+1.1827813386917114
+1.3384531736373901
+0.9319014549255371
+2.436767101287842
+0.9696572422981262
+1.3963651657104492
+1.1282721757888794
+1.1530818939208984
+1.0096901655197144
+0.8956241011619568
+0.8997732996940613
+0.8538318276405334
+1.240435242652893
+1.0955212116241455
+1.464027762413025
+1.1009860038757324
+0.8891319036483765
+1.466139554977417
+0.9715192914009094
+0.8950455784797668
+1.2796541452407837
+0.7721766233444214
+1.1204754114151
+0.9911229610443115
+0.7986357808113098
+1.3039660453796387
+0.987415075302124
+0.834457278251648
+0.856145441532135
+0.6686892509460449
+0.9900107979774475
+2.8544912338256836
+2.8833980560302734
+2.900502920150757
+2.9442877769470215
+2.9086711406707764
+2.761305093765259
+2.8051886558532715
+2.951925277709961
+2.8854880332946777
+2.942145347595215
+2.908903121948242
+2.873950242996216
+2.7667837142944336
+2.831660747528076
+2.784963369369507
+2.8414292335510254
+2.7693397998809814
+2.562473773956299
+2.4571282863616943
+2.373473882675171
+2.123424530029297
+1.8388868570327759
+1.8110142946243286
+1.7342407703399658
+1.2395528554916382
+1.432660460472107
+1.6339246034622192
+1.2198938131332397
+1.2719954252243042
+2.069575786590576
+1.305212378501892
+1.3877928256988525
+1.1737682819366455
+2.520918607711792
+2.6428887844085693
+2.9839529991149902
+2.3603708744049072
+2.4614627361297607
+1.7842613458633423
+2.3941707611083984
+1.514627456665039
+1.4574964046478271
+1.228662371635437
+0.9269106388092041
+0.8724361658096313
+1.8083237409591675
+1.0862985849380493
+1.0657156705856323
+1.0698519945144653
+5.506141185760498
+0.7852907180786133
+1.247914433479309
+0.8898915648460388
+1.1106711626052856
+1.3017300367355347
+0.8597234487533569
+0.8886288404464722
+1.2897286415100098
+0.9080182313919067
+0.743800938129425
+0.6284011602401733
+1.2051366567611694
+0.6677975654602051
+0.6596277356147766
+0.7486364245414734
+0.6036120057106018
+0.7551174759864807
+0.8068969249725342
+2.61334228515625
+0.795539915561676
+0.9819960594177246
+1.0041743516921997
+0.597411572933197
+0.7699896693229675
+0.8839511275291443
+0.6094784736633301
+0.6460556983947754
+0.4808729290962219
+0.5129570960998535
+0.5918620228767395
+0.6759591102600098
+0.48439061641693115
+0.5723588466644287
+0.6856165528297424
+0.641211986541748
+0.6329091191291809
+0.6603982448577881
+0.6994047164916992
+0.48902058601379395
+0.6177362203598022
+1.284503698348999
+0.7103182077407837
+0.5359593629837036
+0.556971549987793
+0.8717010021209717
+0.5059788823127747
+0.5955728888511658
+0.6913431882858276
+0.4440651834011078
+0.5210891366004944
+2.8272955417633057
+2.8544912338256836
+2.8833980560302734
+2.900502920150757
+2.9442877769470215
+2.9086711406707764
+2.761305093765259
+2.8051886558532715
+2.951925277709961
+2.8854880332946777
+2.942145347595215
+2.908903121948242
+2.873950242996216
+2.7667837142944336
+2.831660747528076
+2.784963369369507
+2.8414292335510254
+2.7693397998809814
+2.562473773956299
+2.4571282863616943
+2.373473882675171
+2.123424530029297
+1.8388868570327759
+1.8110142946243286
+1.7342407703399658
+1.2395528554916382
+1.432660460472107
+1.6339246034622192
+1.2198938131332397
+1.2719954252243042
+2.069575786590576
+1.305212378501892
+1.3877928256988525
+1.1737682819366455
+2.520918607711792
+2.6428887844085693
+2.9839529991149902
+2.3603708744049072
+2.4614627361297607
+1.7842613458633423
+2.3941707611083984
+1.514627456665039
+1.4574964046478271
+1.228662371635437
+0.9269106388092041
+0.8724361658096313
+1.8083237409591675
+1.0862985849380493
+1.0657156705856323
+1.0698519945144653
+5.506141185760498
+0.7852907180786133
+1.247914433479309
+0.8898915648460388
+1.1106711626052856
+1.3017300367355347
+0.8597234487533569
+0.8886288404464722
+1.2897286415100098
+0.9080182313919067
+0.743800938129425
+0.6284011602401733
+1.2051366567611694
+0.6677975654602051
+0.6596277356147766
+0.7486364245414734
+0.6036120057106018
+0.7551174759864807
+0.8068969249725342
+2.61334228515625
+0.795539915561676
+0.9819960594177246
+1.0041743516921997
+0.597411572933197
+0.7699896693229675
+0.8839511275291443
+0.6094784736633301
+0.6460556983947754
+0.4808729290962219
+0.5129570960998535
+0.5918620228767395
+0.6759591102600098
+0.48439061641693115
+0.5723588466644287
+0.6856165528297424
+0.641211986541748
+0.6329091191291809
+0.6603982448577881
+0.6994047164916992
+0.48902058601379395
+0.6177362203598022
+1.284503698348999
+0.7103182077407837
+0.5359593629837036
+0.556971549987793
+0.8717010021209717
+0.5059788823127747
+0.5955728888511658
+0.6913431882858276
+0.4440651834011078
+0.5210891366004944
+0.49074628949165344
+Dataset({
+    features: ['bert_ids', 'bert_mask', 'gpt_ids', 'gpt_mask'],
+    num_rows: 10
+})
+2.9213743209838867
+2.9171156883239746
+2.945601224899292
+2.933631181716919
+2.9371986389160156
+2.904693126678467
+2.928053379058838
+2.877657651901245
+2.894507646560669
+2.892777919769287
+2.9024720191955566
+2.9647610187530518
+2.8910460472106934
+2.9470057487487793
+2.880052089691162
+2.92498517036438
+2.879481792449951
+2.832639455795288
+2.754730463027954
+2.671600341796875
+2.5576348304748535
+2.4556796550750732
+2.308973550796509
+2.157951593399048
+2.0240728855133057
+1.898270845413208
+1.9054489135742188
+1.8863602876663208
+1.903767704963684
+1.853007435798645
+1.7768954038619995
+1.7349298000335693
+1.8160600662231445
+1.7172222137451172
+1.7255035638809204
+1.6516830921173096
+1.7649497985839844
+1.7805880308151245
+1.792758584022522
+1.6861979961395264
+1.667575478553772
+1.616878867149353
+1.5847738981246948
+1.7091413736343384
+1.6937618255615234
+1.7103536128997803
+1.5997463464736938
+1.5522593259811401
+1.512374997138977
+1.5093687772750854
+1.569817304611206
+1.5055758953094482
+1.4597114324569702
+1.5696837902069092
+1.4821852445602417
+1.4349751472473145
+1.469613790512085
+1.4639501571655273
+1.4579732418060303
+1.4735502004623413
+1.4389516115188599
+1.4212796688079834
+1.4557586908340454
+1.4038342237472534
+1.4307925701141357
+1.3578470945358276
+1.4316996335983276
+1.445150375366211
+1.3743245601654053
+1.3577971458435059
+1.3173295259475708
+1.363234281539917
+1.363210678100586
+1.2978743314743042
+1.3533918857574463
+1.3422712087631226
+1.3044952154159546
+1.3249608278274536
+1.3568840026855469
+1.3891202211380005
+1.366693139076233
+1.3242214918136597
+1.259527564048767
+1.2340996265411377
+1.3058117628097534
+1.2986897230148315
+1.288804054260254
+1.2697608470916748
+1.2957788705825806
+1.2303574085235596
+1.280493140220642
+1.2758558988571167
+1.282118558883667
+1.2286251783370972
+1.2473546266555786
+1.2144066095352173
+1.2567075490951538
+1.301589846611023
+1.304136872291565
+1.2645981311798096
+1.083731770515442
+2.904656171798706
+2.9029035568237305
+2.930494785308838
+2.9186692237854004
+2.9221115112304688
+2.8952536582946777
+2.9121246337890625
+2.8647541999816895
+2.87428617477417
+2.876037836074829
+2.8902735710144043
+2.9486379623413086
+2.8713810443878174
+2.9378738403320312
+2.88277006149292
+2.931365489959717
+2.906473398208618
+2.887101888656616
+2.8250949382781982
+2.7464451789855957
+2.5932865142822266
+2.4232728481292725
+2.3464019298553467
+2.1609749794006348
+2.0570714473724365
+2.0043163299560547
+1.9410074949264526
+1.8584468364715576
+1.8731590509414673
+1.7544922828674316
+1.7162574529647827
+1.6530057191848755
+1.6231802701950073
+1.5778839588165283
+1.5504322052001953
+1.4803880453109741
+1.4233698844909668
+1.4501932859420776
+1.4731804132461548
+1.3975895643234253
+1.4039453268051147
+1.3656415939331055
+1.388291597366333
+1.3951914310455322
+1.3601361513137817
+1.3254022598266602
+1.3141330480575562
+1.319644808769226
+1.3267793655395508
+1.3555501699447632
+1.2841877937316895
+1.3520138263702393
+1.2720609903335571
+1.3040982484817505
+1.3002508878707886
+1.2852606773376465
+1.2936581373214722
+1.4037086963653564
+1.3003753423690796
+1.278813123703003
+1.5021140575408936
+1.2724614143371582
+1.2871659994125366
+1.2187364101409912
+1.1911309957504272
+1.1925737857818604
+1.200241208076477
+1.2188385725021362
+1.213222861289978
+1.2204240560531616
+1.1951415538787842
+1.2463668584823608
+1.225799798965454
+1.1677924394607544
+1.2045716047286987
+1.2349618673324585
+1.2063621282577515
+1.2057472467422485
+1.2033751010894775
+1.2434568405151367
+1.147119164466858
+1.1640385389328003
+1.1619353294372559
+1.1415700912475586
+1.1578823328018188
+1.1637825965881348
+1.158573031425476
+1.1527342796325684
+1.16892409324646
+1.127257227897644
+1.1345551013946533
+1.1680467128753662
+1.1699310541152954
+1.11757230758667
+1.1650735139846802
+1.0949788093566895
+1.1716492176055908
+1.1427842378616333
+1.1548315286636353
+1.0979235172271729
+1.022507667541504
+3.276857376098633
+3.302675247192383
+3.3292810916900635
+3.2896945476531982
+3.3145594596862793
+3.283142328262329
+3.301138401031494
+3.2866508960723877
+3.254486560821533
+3.2731263637542725
+3.3181324005126953
+3.2000732421875
+2.9722518920898438
+2.942704916000366
+2.761970281600952
+2.639711856842041
+2.60198712348938
+2.441632032394409
+2.33941650390625
+2.259686231613159
+2.215273380279541
+2.2353928089141846
+2.295546293258667
+2.1257987022399902
+2.17022442817688
+2.0970113277435303
+2.0834596157073975
+2.129302501678467
+2.1766562461853027
+2.1552367210388184
+2.0756778717041016
+2.0003175735473633
+2.1258020401000977
+2.155503273010254
+2.1391987800598145
+2.0737032890319824
+2.1798527240753174
+2.0038716793060303
+2.0420174598693848
+1.9685747623443604
+2.0036325454711914
+2.024574041366577
+2.0943715572357178
+2.0527420043945312
+1.9352718591690063
+1.8746451139450073
+1.8924341201782227
+1.9010026454925537
+1.9763967990875244
+1.9142951965332031
+1.8090729713439941
+1.8896838426589966
+1.8872416019439697
+1.8596408367156982
+1.9162050485610962
+1.7596545219421387
+1.8919131755828857
+1.8927916288375854
+1.8348196744918823
+1.7935250997543335
+1.7899229526519775
+1.6975173950195312
+1.9479669332504272
+1.7538444995880127
+1.7437448501586914
+1.7519594430923462
+1.6967843770980835
+1.6456142663955688
+1.5908050537109375
+1.649292230606079
+1.673678994178772
+1.8545665740966797
+1.6291496753692627
+1.5286601781845093
+1.6177750825881958
+1.4694418907165527
+1.4884593486785889
+1.4713221788406372
+1.5515278577804565
+1.4776008129119873
+1.441283106803894
+1.5860636234283447
+1.4501380920410156
+1.4560004472732544
+1.4786244630813599
+1.416287899017334
+1.4763882160186768
+1.5972745418548584
+1.4005070924758911
+1.5174521207809448
+1.333008050918579
+1.330508828163147
+1.4288387298583984
+1.4080158472061157
+1.3698546886444092
+1.2840206623077393
+1.4425764083862305
+1.4207592010498047
+1.3932310342788696
+1.308007001876831
+2.9081666469573975
+2.9076318740844727
+2.932678461074829
+2.9229767322540283
+2.9276702404022217
+2.9010605812072754
+2.917433261871338
+2.869080066680908
+2.8777480125427246
+2.882089614868164
+2.8939015865325928
+2.947810649871826
+2.867633819580078
+2.9273746013641357
+2.8662734031677246
+2.9028501510620117
+2.8694841861724854
+2.837050676345825
+2.748394012451172
+2.664153814315796
+2.5294578075408936
+2.4140305519104004
+2.36106538772583
+2.182090997695923
+2.0897622108459473
+2.0059123039245605
+1.9994641542434692
+1.9209798574447632
+1.9339274168014526
+1.8588920831680298
+1.8117793798446655
+1.8784708976745605
+1.8046438694000244
+1.70712411403656
+1.7074424028396606
+1.627758264541626
+1.6290605068206787
+1.6682803630828857
+1.603821873664856
+1.6366145610809326
+1.5381722450256348
+1.5482025146484375
+1.5469025373458862
+1.523468017578125
+1.5317270755767822
+1.5016469955444336
+1.470798134803772
+1.4616541862487793
+1.4190477132797241
+1.4953274726867676
+1.3840187788009644
+1.4361331462860107
+1.3926963806152344
+1.3586556911468506
+1.3965201377868652
+1.3731645345687866
+1.4075398445129395
+1.3604590892791748
+1.3836183547973633
+1.3588242530822754
+1.3032820224761963
+1.3192163705825806
+1.3479928970336914
+1.3436346054077148
+1.2712931632995605
+1.2589061260223389
+1.2534353733062744
+1.2928493022918701
+1.3129233121871948
+1.3040891885757446
+1.2665928602218628
+1.3156510591506958
+1.2823364734649658
+1.2521084547042847
+1.2910407781600952
+1.228020429611206
+1.217814564704895
+1.2359858751296997
+1.2453646659851074
+1.2723082304000854
+1.1712652444839478
+1.1993937492370605
+1.2069904804229736
+1.2124807834625244
+1.1646360158920288
+1.2216331958770752
+1.2070016860961914
+1.215013027191162
+1.2215213775634766
+1.1785740852355957
+1.1924402713775635
+1.1973755359649658
+1.2240252494812012
+1.1861824989318848
+1.195503830909729
+1.154396891593933
+1.2300999164581299
+1.1986000537872314
+1.2055660486221313
+1.1648117303848267
+1.050862193107605
+2.9118242263793945
+2.922842025756836
+2.9416561126708984
+2.927901268005371
+2.933358907699585
+2.90769362449646
+2.9268622398376465
+2.8835365772247314
+2.8907177448272705
+2.887946844100952
+2.9028563499450684
+2.941171646118164
+2.8393161296844482
+2.8558239936828613
+2.7365288734436035
+2.6881730556488037
+2.5905492305755615
+2.4220995903015137
+2.240220308303833
+2.104248523712158
+1.994983434677124
+1.9202585220336914
+1.8940072059631348
+1.7997527122497559
+1.7634767293930054
+1.7041009664535522
+1.6733278036117554
+1.6381558179855347
+1.6819120645523071
+1.6509883403778076
+1.5811986923217773
+1.565630316734314
+1.5350346565246582
+1.5857999324798584
+1.5172590017318726
+1.5310255289077759
+1.5391438007354736
+1.4759329557418823
+1.50059974193573
+1.437045693397522
+1.458223819732666
+1.4525871276855469
+1.4982963800430298
+1.4556461572647095
+1.5346466302871704
+1.4177378416061401
+1.4535597562789917
+1.4374555349349976
+1.3628833293914795
+1.4706964492797852
+1.378035068511963
+1.4167253971099854
+1.3730206489562988
+1.39651358127594
+1.3312256336212158
+1.3501322269439697
+1.3830633163452148
+1.3611279726028442
+1.3783372640609741
+1.3224363327026367
+1.2743017673492432
+1.3808847665786743
+1.3643467426300049
+1.3336979150772095
+1.2578459978103638
+1.290493369102478
+1.287302017211914
+1.306286334991455
+1.3295620679855347
+1.2938601970672607
+1.3126848936080933
+1.3328441381454468
+1.3275953531265259
+1.2537754774093628
+1.3191134929656982
+1.238227128982544
+1.2555315494537354
+1.224271535873413
+1.2245101928710938
+1.29025399684906
+1.1842848062515259
+1.2091163396835327
+1.2301441431045532
+1.2334589958190918
+1.1720829010009766
+1.2042418718338013
+1.2315603494644165
+1.2447693347930908
+1.2376188039779663
+1.2054296731948853
+1.164109468460083
+1.1979303359985352
+1.2246054410934448
+1.2076256275177002
+1.1789910793304443
+1.1521364450454712
+1.250586986541748
+1.2128770351409912
+1.212712049484253
+1.1890243291854858
+1.1733698844909668
+1.1865614652633667
+Dataset({
+    features: ['bert_ids', 'bert_mask', 'gpt_ids', 'gpt_mask'],
+    num_rows: 10
+})
+torch.Size([10])
+torch.Size([10])
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+2.9854447841644287
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+2.955228328704834
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+2.9807815551757812
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+2.96262264251709
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+2.9742815494537354
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+2.9934897422790527
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+2.9672675132751465
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+2.966794729232788
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+2.9700894355773926
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+3.0086169242858887
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+2.84455943107605
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+2.7048192024230957
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+2.5843963623046875
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+2.38449764251709
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+2.213827133178711
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+1.996890902519226
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+1.901608943939209
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+1.7494503259658813
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+1.6954174041748047
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+1.5547459125518799
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+1.4423692226409912
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+1.3724102973937988
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+1.2466411590576172
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+1.2318576574325562
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+1.192387580871582
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+1.1098241806030273
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+1.041234016418457
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+1.0305193662643433
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.9868595004081726
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.9387774467468262
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.9348162412643433
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.8875967264175415
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.8670054078102112
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.8327939510345459
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.8453665375709534
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.763701856136322
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.802337646484375
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.719555675983429
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.7049155235290527
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.7270696759223938
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.6647867560386658
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.6641169786453247
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.6582019329071045
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.6435246467590332
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.6457237601280212
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.6349512934684753
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.6137879490852356
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.6194151639938354
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.5487673282623291
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.5801331400871277
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.5686426162719727
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.5454614758491516
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.5502108335494995
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.5653167366981506
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.5174862742424011
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.5632711052894592
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.4963574707508087
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.5138944387435913
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.48554903268814087
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.49101439118385315
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.5038852095603943
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.4980074167251587
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.4594813585281372
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.46891629695892334
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.45242631435394287
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.4602167308330536
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.4516959488391876
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.44266068935394287
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.43376338481903076
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.43529579043388367
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.4585267901420593
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.4028884768486023
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.4129120409488678
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.4253450930118561
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.4107897877693176
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.4070039689540863
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.3993038535118103
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.39735284447669983
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.37151312828063965
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.42156052589416504
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.39270898699760437
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.3738543391227722
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.3828173577785492
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.4137265384197235
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.3788255453109741
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.37160706520080566
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.3560318946838379
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.38407066464424133
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.3374110460281372
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.36943966150283813
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.34761887788772583
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.3522493243217468
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.34473907947540283
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.34876787662506104
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.34644031524658203
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.3605339825153351
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.35503295063972473
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.32763710618019104
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.3378543257713318
+torch.Size([10, 3072])
+torch.Size([10, 3072])
+0.322268545627594
+Dataset({
+    features: ['bert_ids', 'bert_mask', 'gpt_ids', 'gpt_mask'],
+    num_rows: 1000
+})
+gpt.transformer.wte.weight False
+gpt.transformer.wpe.weight False
+gpt.transformer.h.0.ln_1.weight False
+gpt.transformer.h.0.ln_1.bias False
+gpt.transformer.h.0.attn.c_attn.weight False
+gpt.transformer.h.0.attn.c_attn.bias False
+gpt.transformer.h.0.attn.c_proj.weight False
+gpt.transformer.h.0.attn.c_proj.bias False
+gpt.transformer.h.0.ln_2.weight False
+gpt.transformer.h.0.ln_2.bias False
+gpt.transformer.h.0.mlp.c_fc.weight False
+gpt.transformer.h.0.mlp.c_fc.bias False
+gpt.transformer.h.0.mlp.c_proj.weight False
+gpt.transformer.h.0.mlp.c_proj.bias False
+gpt.transformer.h.1.ln_1.weight False
+gpt.transformer.h.1.ln_1.bias False
+gpt.transformer.h.1.attn.c_attn.weight False
+gpt.transformer.h.1.attn.c_attn.bias False
+gpt.transformer.h.1.attn.c_proj.weight False
+gpt.transformer.h.1.attn.c_proj.bias False
+gpt.transformer.h.1.ln_2.weight False
+gpt.transformer.h.1.ln_2.bias False
+gpt.transformer.h.1.mlp.c_fc.weight False
+gpt.transformer.h.1.mlp.c_fc.bias False
+gpt.transformer.h.1.mlp.c_proj.weight False
+gpt.transformer.h.1.mlp.c_proj.bias False
+gpt.transformer.h.2.ln_1.weight False
+gpt.transformer.h.2.ln_1.bias False
+gpt.transformer.h.2.attn.c_attn.weight False
+gpt.transformer.h.2.attn.c_attn.bias False
+gpt.transformer.h.2.attn.c_proj.weight False
+gpt.transformer.h.2.attn.c_proj.bias False
+gpt.transformer.h.2.ln_2.weight False
+gpt.transformer.h.2.ln_2.bias False
+gpt.transformer.h.2.mlp.c_fc.weight False
+gpt.transformer.h.2.mlp.c_fc.bias False
+gpt.transformer.h.2.mlp.c_proj.weight False
+gpt.transformer.h.2.mlp.c_proj.bias False
+gpt.transformer.h.3.ln_1.weight False
+gpt.transformer.h.3.ln_1.bias False
+gpt.transformer.h.3.attn.c_attn.weight False
+gpt.transformer.h.3.attn.c_attn.bias False
+gpt.transformer.h.3.attn.c_proj.weight False
+gpt.transformer.h.3.attn.c_proj.bias False
+gpt.transformer.h.3.ln_2.weight False
+gpt.transformer.h.3.ln_2.bias False
+gpt.transformer.h.3.mlp.c_fc.weight False
+gpt.transformer.h.3.mlp.c_fc.bias False
+gpt.transformer.h.3.mlp.c_proj.weight False
+gpt.transformer.h.3.mlp.c_proj.bias False
+gpt.transformer.h.4.ln_1.weight False
+gpt.transformer.h.4.ln_1.bias False
+gpt.transformer.h.4.attn.c_attn.weight False
+gpt.transformer.h.4.attn.c_attn.bias False
+gpt.transformer.h.4.attn.c_proj.weight False
+gpt.transformer.h.4.attn.c_proj.bias False
+gpt.transformer.h.4.ln_2.weight False
+gpt.transformer.h.4.ln_2.bias False
+gpt.transformer.h.4.mlp.c_fc.weight False
+gpt.transformer.h.4.mlp.c_fc.bias False
+gpt.transformer.h.4.mlp.c_proj.weight False
+gpt.transformer.h.4.mlp.c_proj.bias False
+gpt.transformer.h.5.ln_1.weight False
+gpt.transformer.h.5.ln_1.bias False
+gpt.transformer.h.5.attn.c_attn.weight False
+gpt.transformer.h.5.attn.c_attn.bias False
+gpt.transformer.h.5.attn.c_proj.weight False
+gpt.transformer.h.5.attn.c_proj.bias False
+gpt.transformer.h.5.ln_2.weight False
+gpt.transformer.h.5.ln_2.bias False
+gpt.transformer.h.5.mlp.c_fc.weight False
+gpt.transformer.h.5.mlp.c_fc.bias False
+gpt.transformer.h.5.mlp.c_proj.weight False
+gpt.transformer.h.5.mlp.c_proj.bias False
+gpt.transformer.ln_f.weight False
+gpt.transformer.ln_f.bias False
+bert.embeddings.word_embeddings.weight True
+bert.embeddings.position_embeddings.weight True
+bert.embeddings.LayerNorm.weight True
+bert.embeddings.LayerNorm.bias True
+bert.transformer.layer.0.attention.q_lin.weight True
+bert.transformer.layer.0.attention.q_lin.bias True
+bert.transformer.layer.0.attention.k_lin.weight True
+bert.transformer.layer.0.attention.k_lin.bias True
+bert.transformer.layer.0.attention.v_lin.weight True
+bert.transformer.layer.0.attention.v_lin.bias True
+bert.transformer.layer.0.attention.out_lin.weight True
+bert.transformer.layer.0.attention.out_lin.bias True
+bert.transformer.layer.0.sa_layer_norm.weight True
+bert.transformer.layer.0.sa_layer_norm.bias True
+bert.transformer.layer.0.ffn.lin1.weight True
+bert.transformer.layer.0.ffn.lin1.bias True
+bert.transformer.layer.0.ffn.lin2.weight True
+bert.transformer.layer.0.ffn.lin2.bias True
+bert.transformer.layer.0.output_layer_norm.weight True
+bert.transformer.layer.0.output_layer_norm.bias True
+bert.transformer.layer.1.attention.q_lin.weight True
+bert.transformer.layer.1.attention.q_lin.bias True
+bert.transformer.layer.1.attention.k_lin.weight True
+bert.transformer.layer.1.attention.k_lin.bias True
+bert.transformer.layer.1.attention.v_lin.weight True
+bert.transformer.layer.1.attention.v_lin.bias True
+bert.transformer.layer.1.attention.out_lin.weight True
+bert.transformer.layer.1.attention.out_lin.bias True
+bert.transformer.layer.1.sa_layer_norm.weight True
+bert.transformer.layer.1.sa_layer_norm.bias True
+bert.transformer.layer.1.ffn.lin1.weight True
+bert.transformer.layer.1.ffn.lin1.bias True
+bert.transformer.layer.1.ffn.lin2.weight True
+bert.transformer.layer.1.ffn.lin2.bias True
+bert.transformer.layer.1.output_layer_norm.weight True
+bert.transformer.layer.1.output_layer_norm.bias True
+bert.transformer.layer.2.attention.q_lin.weight True
+bert.transformer.layer.2.attention.q_lin.bias True
+bert.transformer.layer.2.attention.k_lin.weight True
+bert.transformer.layer.2.attention.k_lin.bias True
+bert.transformer.layer.2.attention.v_lin.weight True
+bert.transformer.layer.2.attention.v_lin.bias True
+bert.transformer.layer.2.attention.out_lin.weight True
+bert.transformer.layer.2.attention.out_lin.bias True
+bert.transformer.layer.2.sa_layer_norm.weight True
+bert.transformer.layer.2.sa_layer_norm.bias True
+bert.transformer.layer.2.ffn.lin1.weight True
+bert.transformer.layer.2.ffn.lin1.bias True
+bert.transformer.layer.2.ffn.lin2.weight True
+bert.transformer.layer.2.ffn.lin2.bias True
+bert.transformer.layer.2.output_layer_norm.weight True
+bert.transformer.layer.2.output_layer_norm.bias True
+bert.transformer.layer.3.attention.q_lin.weight True
+bert.transformer.layer.3.attention.q_lin.bias True
+bert.transformer.layer.3.attention.k_lin.weight True
+bert.transformer.layer.3.attention.k_lin.bias True
+bert.transformer.layer.3.attention.v_lin.weight True
+bert.transformer.layer.3.attention.v_lin.bias True
+bert.transformer.layer.3.attention.out_lin.weight True
+bert.transformer.layer.3.attention.out_lin.bias True
+bert.transformer.layer.3.sa_layer_norm.weight True
+bert.transformer.layer.3.sa_layer_norm.bias True
+bert.transformer.layer.3.ffn.lin1.weight True
+bert.transformer.layer.3.ffn.lin1.bias True
+bert.transformer.layer.3.ffn.lin2.weight True
+bert.transformer.layer.3.ffn.lin2.bias True
+bert.transformer.layer.3.output_layer_norm.weight True
+bert.transformer.layer.3.output_layer_norm.bias True
+bert.transformer.layer.4.attention.q_lin.weight True
+bert.transformer.layer.4.attention.q_lin.bias True
+bert.transformer.layer.4.attention.k_lin.weight True
+bert.transformer.layer.4.attention.k_lin.bias True
+bert.transformer.layer.4.attention.v_lin.weight True
+bert.transformer.layer.4.attention.v_lin.bias True
+bert.transformer.layer.4.attention.out_lin.weight True
+bert.transformer.layer.4.attention.out_lin.bias True
+bert.transformer.layer.4.sa_layer_norm.weight True
+bert.transformer.layer.4.sa_layer_norm.bias True
+bert.transformer.layer.4.ffn.lin1.weight True
+bert.transformer.layer.4.ffn.lin1.bias True
+bert.transformer.layer.4.ffn.lin2.weight True
+bert.transformer.layer.4.ffn.lin2.bias True
+bert.transformer.layer.4.output_layer_norm.weight True
+bert.transformer.layer.4.output_layer_norm.bias True
+bert.transformer.layer.5.attention.q_lin.weight True
+bert.transformer.layer.5.attention.q_lin.bias True
+bert.transformer.layer.5.attention.k_lin.weight True
+bert.transformer.layer.5.attention.k_lin.bias True
+bert.transformer.layer.5.attention.v_lin.weight True
+bert.transformer.layer.5.attention.v_lin.bias True
+bert.transformer.layer.5.attention.out_lin.weight True
+bert.transformer.layer.5.attention.out_lin.bias True
+bert.transformer.layer.5.sa_layer_norm.weight True
+bert.transformer.layer.5.sa_layer_norm.bias True
+bert.transformer.layer.5.ffn.lin1.weight True
+bert.transformer.layer.5.ffn.lin1.bias True
+bert.transformer.layer.5.ffn.lin2.weight True
+bert.transformer.layer.5.ffn.lin2.bias True
+bert.transformer.layer.5.output_layer_norm.weight True
+bert.transformer.layer.5.output_layer_norm.bias True
+amplifier.weight True
+amplifier.bias True
+decoder.0.weight True
+decoder.0.bias True
+decoder.2.weight True
+decoder.2.bias True
+decoder.4.weight True
+decoder.4.bias True
+bert.embeddings.word_embeddings.weight
+bert.embeddings.position_embeddings.weight
+bert.embeddings.LayerNorm.weight
+bert.embeddings.LayerNorm.bias
+bert.transformer.layer.0.attention.q_lin.weight
+bert.transformer.layer.0.attention.q_lin.bias
+bert.transformer.layer.0.attention.k_lin.weight
+bert.transformer.layer.0.attention.k_lin.bias
+bert.transformer.layer.0.attention.v_lin.weight
+bert.transformer.layer.0.attention.v_lin.bias
+bert.transformer.layer.0.attention.out_lin.weight
+bert.transformer.layer.0.attention.out_lin.bias
+bert.transformer.layer.0.sa_layer_norm.weight
+bert.transformer.layer.0.sa_layer_norm.bias
+bert.transformer.layer.0.ffn.lin1.weight
+bert.transformer.layer.0.ffn.lin1.bias
+bert.transformer.layer.0.ffn.lin2.weight
+bert.transformer.layer.0.ffn.lin2.bias
+bert.transformer.layer.0.output_layer_norm.weight
+bert.transformer.layer.0.output_layer_norm.bias
+bert.transformer.layer.1.attention.q_lin.weight
+bert.transformer.layer.1.attention.q_lin.bias
+bert.transformer.layer.1.attention.k_lin.weight
+bert.transformer.layer.1.attention.k_lin.bias
+bert.transformer.layer.1.attention.v_lin.weight
+bert.transformer.layer.1.attention.v_lin.bias
+bert.transformer.layer.1.attention.out_lin.weight
+bert.transformer.layer.1.attention.out_lin.bias
+bert.transformer.layer.1.sa_layer_norm.weight
+bert.transformer.layer.1.sa_layer_norm.bias
+bert.transformer.layer.1.ffn.lin1.weight
+bert.transformer.layer.1.ffn.lin1.bias
+bert.transformer.layer.1.ffn.lin2.weight
+bert.transformer.layer.1.ffn.lin2.bias
+bert.transformer.layer.1.output_layer_norm.weight
+bert.transformer.layer.1.output_layer_norm.bias
+bert.transformer.layer.2.attention.q_lin.weight
+bert.transformer.layer.2.attention.q_lin.bias
+bert.transformer.layer.2.attention.k_lin.weight
+bert.transformer.layer.2.attention.k_lin.bias
+bert.transformer.layer.2.attention.v_lin.weight
+bert.transformer.layer.2.attention.v_lin.bias
+bert.transformer.layer.2.attention.out_lin.weight
+bert.transformer.layer.2.attention.out_lin.bias
+bert.transformer.layer.2.sa_layer_norm.weight
+bert.transformer.layer.2.sa_layer_norm.bias
+bert.transformer.layer.2.ffn.lin1.weight
+bert.transformer.layer.2.ffn.lin1.bias
+bert.transformer.layer.2.ffn.lin2.weight
+bert.transformer.layer.2.ffn.lin2.bias
+bert.transformer.layer.2.output_layer_norm.weight
+bert.transformer.layer.2.output_layer_norm.bias
+bert.transformer.layer.3.attention.q_lin.weight
+bert.transformer.layer.3.attention.q_lin.bias
+bert.transformer.layer.3.attention.k_lin.weight
+bert.transformer.layer.3.attention.k_lin.bias
+bert.transformer.layer.3.attention.v_lin.weight
+bert.transformer.layer.3.attention.v_lin.bias
+bert.transformer.layer.3.attention.out_lin.weight
+bert.transformer.layer.3.attention.out_lin.bias
+bert.transformer.layer.3.sa_layer_norm.weight
+bert.transformer.layer.3.sa_layer_norm.bias
+bert.transformer.layer.3.ffn.lin1.weight
+bert.transformer.layer.3.ffn.lin1.bias
+bert.transformer.layer.3.ffn.lin2.weight
+bert.transformer.layer.3.ffn.lin2.bias
+bert.transformer.layer.3.output_layer_norm.weight
+bert.transformer.layer.3.output_layer_norm.bias
+bert.transformer.layer.4.attention.q_lin.weight
+bert.transformer.layer.4.attention.q_lin.bias
+bert.transformer.layer.4.attention.k_lin.weight
+bert.transformer.layer.4.attention.k_lin.bias
+bert.transformer.layer.4.attention.v_lin.weight
+bert.transformer.layer.4.attention.v_lin.bias
+bert.transformer.layer.4.attention.out_lin.weight
+bert.transformer.layer.4.attention.out_lin.bias
+bert.transformer.layer.4.sa_layer_norm.weight
+bert.transformer.layer.4.sa_layer_norm.bias
+bert.transformer.layer.4.ffn.lin1.weight
+bert.transformer.layer.4.ffn.lin1.bias
+bert.transformer.layer.4.ffn.lin2.weight
+bert.transformer.layer.4.ffn.lin2.bias
+bert.transformer.layer.4.output_layer_norm.weight
+bert.transformer.layer.4.output_layer_norm.bias
+bert.transformer.layer.5.attention.q_lin.weight
+bert.transformer.layer.5.attention.q_lin.bias
+bert.transformer.layer.5.attention.k_lin.weight
+bert.transformer.layer.5.attention.k_lin.bias
+bert.transformer.layer.5.attention.v_lin.weight
+bert.transformer.layer.5.attention.v_lin.bias
+bert.transformer.layer.5.attention.out_lin.weight
+bert.transformer.layer.5.attention.out_lin.bias
+bert.transformer.layer.5.sa_layer_norm.weight
+bert.transformer.layer.5.sa_layer_norm.bias
+bert.transformer.layer.5.ffn.lin1.weight
+bert.transformer.layer.5.ffn.lin1.bias
+bert.transformer.layer.5.ffn.lin2.weight
+bert.transformer.layer.5.ffn.lin2.bias
+bert.transformer.layer.5.output_layer_norm.weight
+bert.transformer.layer.5.output_layer_norm.bias
+amplifier.weight
+amplifier.bias
+decoder.0.weight
+decoder.0.bias
+decoder.2.weight
+decoder.2.bias
+decoder.4.weight
+decoder.4.bias
+2.812624216079712
+2.91338849067688
+2.841433048248291
+2.8491456508636475
+2.8587141036987305
+2.826345205307007
+2.81587815284729
+2.8512375354766846
+2.7777369022369385
+2.8271472454071045
+2.8221018314361572
+2.839491844177246
+2.9093754291534424
+2.8489530086517334
+2.9936535358428955
+2.7795889377593994
+2.8810322284698486
+2.819420099258423
+2.9010634422302246
+2.988320827484131
+2.925302267074585
+2.9322071075439453
+2.9356887340545654
+2.905822992324829
+2.8930342197418213
+2.9314072132110596
+2.8625261783599854
+2.9026401042938232
+2.90246844291687
+2.9346516132354736
+3.0026776790618896
+2.9340591430664062
+3.0801994800567627
+2.854165554046631
+2.9296538829803467
+2.830986738204956
+2.928778648376465
+2.84574818611145
+2.7589259147644043
+2.663543701171875
+2.6938560009002686
+2.525585412979126
+2.563764810562134
+2.483133554458618
+2.5232510566711426
+2.481527090072632
+2.5416743755340576
+2.368401527404785
+2.4943158626556396
+2.451773166656494
+2.4414801597595215
+2.435518503189087
+2.4140536785125732
+2.4315786361694336
+2.463683605194092
+2.4388418197631836
+2.395137071609497
+2.322970390319824
+2.408034563064575
+2.347332000732422
+2.38069748878479
+2.448974370956421
+2.417721748352051
+2.36661696434021
+2.354515314102173
+2.42561936378479
+2.3606982231140137
+2.3622896671295166
+2.4920830726623535
+2.361030340194702
+2.4021213054656982
+2.390756607055664
+2.504563093185425
+2.320499897003174
+2.4344046115875244
+2.38100528717041
+2.4715540409088135
+2.528594732284546
+2.4079482555389404
+2.3873400688171387
+2.3728020191192627
+2.442682981491089
+2.30165958404541
+2.5005147457122803
+2.3739571571350098
+2.3250722885131836
+2.336012840270996
+2.3514018058776855
+2.3400156497955322
+2.337611436843872
+2.4650511741638184
+2.2599456310272217
+2.3840768337249756
+2.4124574661254883
+2.425731897354126
+2.316425323486328
+2.3883352279663086
+2.369889974594116
+2.427934408187866
+2.4538490772247314
+2.320404529571533
+2.4187073707580566
+2.411372184753418
+2.4002463817596436
+2.419121265411377
+2.3148114681243896
+2.3173534870147705
+2.3729944229125977
+2.3037309646606445
+2.3717989921569824
+2.37202525138855
+2.3323440551757812
+2.3934473991394043
+2.398425340652466
+2.3859703540802
+2.410964250564575
+2.4657485485076904
+2.3984665870666504
+2.4296445846557617
+2.419992446899414
+2.3957419395446777
+2.3148624897003174
+2.348334789276123
+2.288846254348755
+2.365882635116577
+2.2710561752319336
+2.2819714546203613
+2.3003807067871094
+2.347496509552002
+2.419107675552368
+2.3671083450317383
+2.3284785747528076
+2.255613088607788
+2.4046778678894043
+2.348806858062744
+2.3664939403533936
+2.3697547912597656
+2.357374906539917
+2.246145486831665
+2.2574665546417236
+2.288673162460327
+2.3667519092559814
+2.345738649368286
+2.30226731300354
+2.300001382827759
+2.329742670059204
+2.3341925144195557
+2.3657007217407227
+2.360288143157959
+2.3742151260375977
+2.342207908630371
+2.3521888256073
+2.3928651809692383
+2.3294336795806885
+2.4051015377044678
+2.3967676162719727
+2.3723978996276855
+2.3155362606048584
+2.3397467136383057
+2.31349778175354
+2.391112804412842
+2.4887359142303467
+2.473285675048828
+2.215068817138672
+2.2976207733154297
+2.378093957901001
+2.3066790103912354
+2.3733174800872803
+2.355529546737671
+2.3227691650390625
+2.2567737102508545
+2.2891077995300293
+2.485954999923706
+2.3845837116241455
+2.2926065921783447
+2.3345751762390137
+2.2802858352661133
+2.2845873832702637
+2.3592021465301514
+2.2901391983032227
+2.351426124572754
+2.4220521450042725
+2.320448637008667
+2.303391456604004
+2.343233108520508
+2.3766989707946777
+2.254779815673828
+2.301171064376831
+2.3410165309906006
+2.2995851039886475
+2.308504819869995
+2.3282666206359863
+2.386715888977051
+2.4068944454193115
+2.303896903991699
+2.384875535964966
+2.3774967193603516
+2.3550732135772705
+2.2838213443756104
+2.2518656253814697
+2.34415340423584
+2.318730592727661
+2.2626049518585205
+2.4165048599243164
+2.3595051765441895
+2.303683280944824
+2.2305407524108887
+2.3965585231781006
+2.472410202026367
+2.34016489982605
+2.2486677169799805
+2.3008573055267334
+2.3192498683929443
+2.3721697330474854
+2.429316520690918
+2.373978614807129
+2.352484703063965
+2.408888816833496
+2.322840452194214
+2.391361713409424
+2.3477115631103516
+2.3099005222320557
+2.3172767162323
+2.2790915966033936
+2.8683102130889893
+2.955106735229492
+2.889101028442383
+2.902029275894165
+2.9063832759857178
+2.8811237812042236
+2.8683438301086426
+2.909396171569824
+2.8241398334503174
+2.873192071914673
+2.8875410556793213
+2.891146659851074
+2.9582858085632324
+2.8533408641815186
+2.937589645385742
+2.704692840576172
+2.752506732940674
+2.6313791275024414
+2.7065727710723877
+2.6126415729522705
+2.5130648612976074
+2.4732892513275146
+2.5226073265075684
+2.370959758758545
+2.404994010925293
+2.3754773139953613
+2.398390531539917
+2.3997859954833984
+2.448737621307373
+2.3411991596221924
+2.3980185985565186
+2.3904178142547607
+2.3834056854248047
+2.3589248657226562
+2.3874692916870117
+2.392726182937622
+2.4156978130340576
+2.3890221118927
+2.3687925338745117
+2.302170515060425
+2.351461410522461
+2.299055814743042
+2.6640875339508057
+2.814034938812256
+2.9145402908325195
+2.8431460857391357
+2.8503544330596924
+2.8602468967437744
+2.8281431198120117
+2.8173182010650635
+2.8523740768432617
+2.778775930404663
+2.812980890274048
+2.7822327613830566
+2.7540781497955322
+2.7783453464508057
+2.6475002765655518
+2.711937189102173
+2.5219931602478027
+2.5329246520996094
+2.4239461421966553
+2.608095407485962
+2.622485637664795
+2.6726949214935303
+2.713061809539795
+2.845288038253784
+2.505565643310547
+2.5188207626342773
+2.6546707153320312
+2.3690853118896484
+2.3397140502929688
+2.3651528358459473
+2.3885531425476074
+2.280474901199341
+2.4427385330200195
+2.5811948776245117
+2.2306337356567383
+2.308537244796753
+2.2619760036468506
+2.3957114219665527
+2.4556221961975098
+2.260019302368164
+2.1652257442474365
+2.2499990463256836
+2.1399011611938477
+2.1577017307281494
+2.2316091060638428
+2.19917893409729
+2.1670491695404053
+2.068026065826416
+2.1466245651245117
+2.0519278049468994
+2.108185052871704
+2.1868343353271484
+2.0911316871643066
+2.0844438076019287
+2.0635039806365967
+2.1778132915496826
+2.050205945968628
+2.0876381397247314
+2.0587284564971924
+2.1530797481536865
+2.1791727542877197
+2.0722579956054688
+1.9837090969085693
+2.053590774536133
+2.095341920852661
+2.026567220687866
+2.085949659347534
+2.0660758018493652
+2.044445753097534
+2.0410561561584473
+2.022859811782837
+2.0711748600006104
+1.9829027652740479
+2.1327524185180664
+1.8988850116729736
+2.1007046699523926
+2.064903974533081
+2.0540506839752197
+1.9795262813568115
+2.043058395385742
+2.0107431411743164
+2.05971622467041
+2.1350393295288086
+2.034223794937134
+2.035414218902588
+1.9958617687225342
+2.038454532623291
+2.0910444259643555
+1.975189208984375
+2.0013647079467773
+2.0175976753234863
+1.9123759269714355
+2.051203966140747
+1.9983481168746948
+2.0073530673980713
+2.0489542484283447
+2.0896308422088623
+2.0606799125671387
+1.9803327322006226
+2.1187849044799805
+2.116316318511963
+2.0713911056518555
+2.056412935256958
+2.026925802230835
+1.9868391752243042
+2.015817403793335
+1.9493738412857056
+2.0637009143829346
+2.236955165863037
+1.9503875970840454
+1.9510921239852905
+1.9853572845458984
+1.99735426902771
+2.032942771911621
+1.999771237373352
+1.8931105136871338
+2.034438371658325
+2.0258936882019043
+1.9369679689407349
+1.9829673767089844
+2.02504563331604
+1.8628981113433838
+1.9034321308135986
+1.9229826927185059
+2.1548237800598145
+2.024412155151367
+1.976562261581421
+1.9469680786132812
+1.9454948902130127
+1.95732581615448
+2.0023698806762695
+1.9572606086730957
+2.035147190093994
+1.9808100461959839
+1.979622721672058
+2.0387234687805176
+1.9811134338378906
+2.0102694034576416
+1.9797247648239136
+2.018820285797119
+1.9501279592514038
+1.953905701637268
+1.9797793626785278
+1.994142770767212
+2.0415563583374023
+2.134960889816284
+1.8581311702728271
+1.9425352811813354
+1.9864811897277832
+1.9088753461837769
+1.961920976638794
+1.9915306568145752
+1.9582958221435547
+1.8823144435882568
+2.1145811080932617
+2.066258668899536
+1.9603934288024902
+1.8809889554977417
+1.9484606981277466
+1.8834543228149414
+1.9059805870056152
+2.0431880950927734
+1.8859635591506958
+1.9394363164901733
+2.0079660415649414
+1.8974595069885254
+1.8876620531082153
+1.9422379732131958
+2.0062105655670166
+1.8925668001174927
+1.9163435697555542
+1.9783097505569458
+1.8572487831115723
+1.862799048423767
+1.906935214996338
+2.0138750076293945
+2.0047848224639893
+1.8882297277450562
+1.9855527877807617
+1.9584157466888428
+1.964302659034729
+1.8836945295333862
+1.9275633096694946
+1.9294244050979614
+1.907770037651062
+1.8598277568817139
+1.9702519178390503
+1.902206540107727
+1.9300813674926758
+1.8149267435073853
+1.9241658449172974
+2.052286148071289
+1.9239729642868042
+1.868786096572876
+1.8965446949005127
+1.8997362852096558
+1.903441071510315
+1.9876563549041748
+1.885836124420166
+1.8870203495025635
+1.9272024631500244
+1.9106199741363525
+1.94694983959198
+1.954463005065918
+1.852351427078247
+1.869768500328064
+1.8187106847763062
+1.8810499906539917
+1.8605389595031738
+1.877624273300171
+1.8614850044250488
+1.8599791526794434
+1.9138469696044922
+1.7705960273742676
+1.8563629388809204
+1.891265630722046
+1.8437974452972412
+1.8205487728118896
+1.8924505710601807
+1.877848505973816
+1.8412882089614868
+1.8999743461608887
+1.9375267028808594
+1.9132846593856812
+1.7918752431869507
+1.875220775604248
+1.8617750406265259
+1.9416513442993164
+1.9459187984466553
+1.8967210054397583
+1.7672030925750732
+1.8138972520828247
+1.903571605682373
+1.8681102991104126
+1.8374385833740234
+1.8240711688995361
+1.8761183023452759
+1.8828479051589966
+1.8440523147583008
+1.9712903499603271
+1.8857753276824951
+1.811438798904419
+1.843745231628418
+1.8110078573226929
+1.9161858558654785
+1.814430594444275
+1.8372278213500977
+1.8179525136947632
+1.7922476530075073
+1.8721576929092407
+1.8769261837005615
+1.8712739944458008
+1.8416805267333984
+1.8531923294067383
+1.8446435928344727
+1.9462716579437256
+1.8072158098220825
+1.8674448728561401
+1.8290982246398926
+1.758636236190796
+1.8677488565444946
+1.8455262184143066
+1.8451837301254272
+1.8670450448989868
+1.8161046504974365
+1.807817816734314
+1.8739670515060425
+1.79520583152771
+1.8577296733856201
+1.7362196445465088
+1.7939519882202148
+1.8100504875183105
+1.7928229570388794
+1.8272892236709595
+1.7846683263778687
+1.8448508977890015
+1.781518816947937
+1.7455079555511475
+1.782646894454956
+1.7987196445465088
+1.8516672849655151
+1.7975409030914307
+1.8315215110778809
+1.7707263231277466
+1.8615505695343018
+2.0562217235565186
+2.05854868888855
+2.813873529434204
+2.9140818119049072
+2.841897487640381
+2.8505139350891113
+2.8591175079345703
+2.826399803161621
+2.8167104721069336
+2.8511030673980713
+2.7777297496795654
+2.8125436305999756
+2.7786877155303955
+2.7480735778808594
+2.7679831981658936
+2.6299781799316406
+2.6864030361175537
+2.5040740966796875
+2.5274198055267334
+2.4027910232543945
+2.6168742179870605
+2.5776748657226562
+2.684903383255005
+2.7075541019439697
+2.8683319091796875
+2.5146803855895996
+2.4455385208129883
+2.5178184509277344
+2.42399525642395
+2.342971086502075
+2.6452977657318115
+2.2984018325805664
+2.3743042945861816
+2.380697250366211
+2.3388280868530273
+2.2209932804107666
+2.2124972343444824
+2.221862316131592
+2.2582712173461914
+2.202859401702881
+2.272768497467041
+2.1160476207733154
+2.161546230316162
+2.1253297328948975
+2.1380043029785156
+2.1871395111083984
+2.1219210624694824
+2.1056771278381348
+2.061605930328369
+2.116727828979492
+2.0394015312194824
+2.090801239013672
+2.1668853759765625
+2.1082282066345215
+2.1099367141723633
+2.08282732963562
+2.1762921810150146
+2.0700931549072266
+2.0830283164978027
+2.075326919555664
+2.173020362854004
+2.1740188598632812
+2.083197832107544
+1.9854313135147095
+2.0660922527313232
+2.1187503337860107
+2.0197231769561768
+2.0928382873535156
+2.057147979736328
+2.0276286602020264
+2.0203633308410645
+2.018700122833252
+2.0432939529418945
+2.4200713634490967
+2.595921754837036
+2.076502799987793
+2.251267194747925
+2.0815422534942627
+2.0735955238342285
+1.9827473163604736
+2.0535404682159424
+1.999424934387207
+2.0588877201080322
+2.2915585041046143
+2.9860315322875977
+2.089747667312622
+2.067648410797119
+2.101667881011963
+2.136566162109375
+1.9879639148712158
+1.995192050933838
+1.997524619102478
+1.9124128818511963
+2.0188956260681152
+2.1163454055786133
+2.2166800498962402
+2.0793793201446533
+2.1261672973632812
+2.0708494186401367
+1.9959666728973389
+2.100921630859375
+2.0131211280822754
+2.0825181007385254
+2.0700149536132812
+2.0135185718536377
+1.9874197244644165
+2.026726722717285
+1.942549228668213
+1.980774164199829
+1.932131052017212
+1.920440912246704
+2.1066789627075195
+1.9917300939559937
+2.0343475341796875
+2.0236730575561523
+1.9981014728546143
+1.9057778120040894
+2.029439926147461
+1.963222861289978
+1.9464181661605835
+2.0040597915649414
+2.025322675704956
+1.8748533725738525
+1.9118406772613525
+1.9523690938949585
+2.008405923843384
+1.9840772151947021
+1.950573205947876
+1.9385579824447632
+1.9286584854125977
+1.9644333124160767
+2.0152573585510254
+1.969810128211975
+2.0115997791290283
+1.9774805307388306
+1.9754801988601685
+2.029707908630371
+1.9456372261047363
+2.0000452995300293
+1.9761282205581665
+2.0099215507507324
+1.9372020959854126
+1.9569600820541382
+1.9863526821136475
+1.9984161853790283
+2.092416763305664
+2.11574649810791
+1.8845118284225464
+1.9557139873504639
+1.961256980895996
+1.9078415632247925
+1.975122094154358
+1.9567172527313232
+1.9504573345184326
+1.9351537227630615
+1.9169931411743164
+2.082369089126587
+1.9635374546051025
+1.8850871324539185
+1.954843282699585
+1.895811915397644
+1.8903114795684814
+1.965147852897644
+1.8982888460159302
+1.9494158029556274
+2.0074219703674316
+1.9327263832092285
+1.9018042087554932
+1.9521664381027222
+1.9649606943130493
+1.925378441810608
+1.9157997369766235
+1.9544568061828613
+1.8661994934082031
+1.8764845132827759
+1.912940263748169
+2.0356059074401855
+2.0311310291290283
+1.903232216835022
+1.9856988191604614
+1.9659487009048462
+1.9800429344177246
+1.8913991451263428
+1.8247907161712646
+1.899841547012329
+1.9034639596939087
+1.8634371757507324
+1.986419916152954
+1.91587495803833
+1.9367269277572632
+1.815993070602417
+1.9153920412063599
+2.060941457748413
+1.9190616607666016
+1.8510525226593018
+1.894899606704712
+1.9083387851715088
+1.9143368005752563
+1.9866710901260376
+1.8785732984542847
+1.8840813636779785
+1.9265607595443726
+1.9161767959594727
+1.9602609872817993
+1.9737626314163208
+1.8752747774124146
+1.8713690042495728
+1.845574975013733
+1.8880398273468018
+1.8649499416351318
+1.9050929546356201
+1.8666653633117676
+1.8661589622497559
+1.914252519607544
+1.7623521089553833
+1.8563165664672852
+1.8845391273498535
+1.8535456657409668
+1.8277242183685303
+1.904434323310852
+1.9115278720855713
+1.8196052312850952
+1.8891723155975342
+1.934438705444336
+1.9212697744369507
+1.794402003288269
+1.8690065145492554
+1.883431315422058
+1.9566477537155151
+1.9378401041030884
+1.9154853820800781
+1.7979614734649658
+1.8458219766616821
+1.898817539215088
+1.885629653930664
+1.8375016450881958
+1.820980429649353
+1.8865898847579956
+1.8712302446365356
+1.789772868156433
+1.9735307693481445
+1.884392499923706
+1.839999794960022
+1.84355890750885
+1.8035558462142944
+1.9262627363204956
+1.8274106979370117
+1.8292217254638672
+1.821855902671814
+1.8151847124099731
+1.8920094966888428
+1.8808420896530151
+1.868587613105774
+1.8606666326522827
+1.8562512397766113
+1.8240691423416138
+1.9009608030319214
+1.8206537961959839
+1.889788269996643
+1.8295272588729858
+1.7557034492492676
+1.8719923496246338
+1.8432444334030151
+1.8374748229980469
+1.8760358095169067
+1.8130818605422974
+1.8274136781692505
+1.866766333580017
+1.780442714691162
+1.8382751941680908
+1.7563906908035278
+1.7842358350753784
+1.817139983177185
+1.7922700643539429
+1.828445315361023
+1.7856203317642212
+1.8681811094284058
+1.7719988822937012
+1.7496999502182007
+1.7760002613067627
+1.7833055257797241
+1.8617011308670044
+1.8096089363098145
+1.8079519271850586
+1.7453277111053467
+1.8640841245651245
+1.8504465818405151
+1.81600821018219
+1.8366074562072754
+1.837619423866272
+1.879642367362976
+1.7459354400634766
+1.82012140750885
+1.779148817062378
+1.7976053953170776
+1.7888063192367554
+1.767765760421753
+1.8254282474517822
+1.734992265701294
+1.7917369604110718
+1.7347941398620605
+1.864443302154541
+1.8083906173706055
+1.8064926862716675
+1.716897964477539
+1.7663826942443848
+1.7546265125274658
+1.7394403219223022
+1.6837421655654907
+1.7389259338378906
+1.7762131690979004
+1.8111484050750732
+1.7757865190505981
+1.7598755359649658
+1.7625300884246826
+1.764675498008728
+1.756553292274475
+1.7543820142745972
+1.7580019235610962
+1.7846019268035889
+1.7610247135162354
+1.7582738399505615
+1.7232704162597656
+1.8314765691757202
+1.8537341356277466
+1.7141313552856445
+1.8292044401168823
+1.7839369773864746
+1.7794913053512573
+1.718220829963684
+1.8344359397888184
+1.7960275411605835
+1.7683995962142944
+1.703147053718567
+1.7790955305099487
+1.774053692817688
+1.7784322500228882
+1.8020144701004028
+1.7127376794815063
+1.7896865606307983
+1.7805795669555664
+1.6736985445022583
+1.682660460472107
+1.7562631368637085
+1.748094916343689
+1.7593587636947632
+1.7888803482055664
+1.8624907732009888
+1.805609107017517
+1.6872156858444214
+1.7674130201339722
+1.7414873838424683
+1.7298449277877808
+1.741402268409729
+1.7272814512252808
+1.7043272256851196
+1.6799604892730713
+1.72784423828125
+1.7752736806869507
+1.7067981958389282
+1.7231947183609009
+1.7562867403030396
+1.750885248184204
+1.7088899612426758
+1.694006323814392
+1.6968746185302734
+1.7212859392166138
+1.745131492614746
+1.7369813919067383
+1.7225632667541504
+1.638248085975647
+1.7538286447525024
+1.7427014112472534
+1.727898359298706
+1.7784113883972168
+1.7438805103302002
+1.652394413948059
+1.665452241897583
+1.7110577821731567
+1.674270749092102
+1.6835604906082153
+1.710385799407959
+1.6870609521865845
+1.671505331993103
+1.7164051532745361
+1.7476123571395874
+1.724530577659607
+1.72152841091156
+1.6671438217163086
+1.6667249202728271
+1.681051254272461
+1.718442678451538
+1.6607520580291748
+1.6823866367340088
+1.641601324081421
+1.653705358505249
+1.6653258800506592
+1.7188249826431274
+1.7044790983200073
+1.6695680618286133
+1.7128444910049438
+1.7513121366500854
+1.684475064277649
+1.732345700263977
+1.6198089122772217
+1.6851903200149536
+1.635399341583252
+1.6447665691375732
+1.7132190465927124
+1.6471830606460571
+1.7223349809646606
+1.6399483680725098
+1.74800705909729
+1.6173585653305054
+1.6664996147155762
+1.6583584547042847
+1.6982855796813965
+1.7623391151428223
+1.696420669555664
+1.6412392854690552
+1.6278761625289917
+1.6776272058486938
+1.7309060096740723
+1.6528489589691162
+1.7205162048339844
+1.63874089717865
+1.6470799446105957
+1.5858937501907349
+1.6821541786193848
+1.7058357000350952
+1.642134189605713
+1.6262938976287842
+1.6079366207122803
+1.6292355060577393
+1.6230127811431885
+1.590766429901123
+1.6392868757247925
+1.6271514892578125
+1.6911752223968506
+1.6289854049682617
+1.7313296794891357
+1.6928433179855347
+1.6780797243118286
+1.6002672910690308
+1.6017073392868042
+1.6478285789489746
+1.6130520105361938
+1.6482493877410889
+1.7077831029891968
+1.5737545490264893
+1.6891735792160034
+1.624158501625061
+1.6584385633468628
+1.5331192016601562
+1.6326276063919067
+1.6510316133499146
+1.6419295072555542
+1.559288740158081
+1.6660161018371582
+1.5757200717926025
+1.6556881666183472
+1.628242015838623
+1.5898230075836182
+1.608575463294983
+1.5197206735610962
+1.6658018827438354
+1.5983604192733765
+1.6115635633468628
+1.6409910917282104
+1.6616592407226562
+1.5850603580474854
+1.6841367483139038
+1.6366655826568604
+1.5657473802566528
+1.7001590728759766
+1.6745811700820923
+1.6335914134979248
+1.6150768995285034
+1.6484262943267822
+1.6074576377868652
+1.648158073425293
+1.624023675918579
+1.6436048746109009
+1.6085890531539917
+1.5946377515792847
+1.589199185371399
+1.6402276754379272
+1.5578080415725708
+1.619338870048523
+1.5654981136322021
+1.623294472694397
+1.6979951858520508
+1.5815551280975342
+1.578596591949463
+1.5390872955322266
+1.5457526445388794
+1.5410698652267456
+1.624769926071167
+1.6672008037567139
+1.5589756965637207
+1.609315276145935
+1.64438796043396
+1.654194951057434
+1.5679713487625122
+1.6578701734542847
+1.5823900699615479
+1.5689587593078613
+1.6408517360687256
+1.6871193647384644
+1.6052685976028442
+1.6204694509506226
+1.6322935819625854
+1.6232167482376099
+1.6297856569290161
+1.607362985610962
+1.5522031784057617
+1.5121136903762817
+1.6712726354599
+1.5016697645187378
+1.4808664321899414
+1.6660069227218628
+1.6206470727920532
+1.582084059715271
+1.6004360914230347
+1.5308722257614136
+1.6012135744094849
+1.5747592449188232
+1.5169750452041626
+1.5837844610214233
+1.6311514377593994
+1.6369811296463013
+1.5887219905853271
+1.5429085493087769
+1.5504586696624756
+1.555343508720398
+1.6406025886535645
+1.5504209995269775
+1.5601598024368286
+1.665759563446045
+1.59210205078125
+1.572523593902588
+1.5672738552093506
+1.589418649673462
+1.5284247398376465
+1.5805761814117432
+1.6146361827850342
+1.610211730003357
+1.5932505130767822
+1.5446796417236328
+1.5421353578567505
+1.5625
+1.5013655424118042
+1.4912149906158447
+1.6081844568252563
+1.5981171131134033
+1.5157270431518555
+1.6163996458053589
+1.5473310947418213
+1.555696725845337
+1.539881944656372
+1.5755313634872437
+1.54251229763031
+1.5862411260604858
+1.6051946878433228
+1.5662740468978882
+1.539584994316101
+1.597640037536621
+1.5540831089019775
+1.625693440437317
+1.5249040126800537
+1.5903265476226807
+1.5931800603866577
+1.570636510848999
+1.5616216659545898
+1.5670769214630127
+1.6005884408950806
+1.5743331909179688
+1.523993968963623
+1.4989455938339233
+1.5566540956497192
+1.5657306909561157
+1.6363611221313477
+1.6001719236373901
+1.5197176933288574
+1.5571614503860474
+1.5556877851486206
+1.4882853031158447
+1.5431631803512573
+1.592883825302124
+1.5795488357543945
+1.541414499282837
+1.5479936599731445
+1.5379036664962769
+1.5534077882766724
+1.5588353872299194
+1.5787185430526733
+1.5180976390838623
+1.5585992336273193
+1.5032488107681274
+1.4853756427764893
+1.610464334487915
+1.5265384912490845
+1.661036491394043
+2.812502384185791
+2.9120919704437256
+2.841376781463623
+2.8490514755249023
+2.8582870960235596
+2.8259854316711426
+2.815558671951294
+2.850966453552246
+2.777517080307007
+2.826526165008545
+2.8209376335144043
+2.8393542766571045
+2.9092326164245605
+2.84940767288208
+2.992784023284912
+2.7792859077453613
+2.8685715198516846
+2.791450262069702
+2.877837896347046
+2.7637245655059814
+2.6280789375305176
+2.5290157794952393
+2.544403553009033
+2.406702756881714
+2.390310049057007
+2.706817865371704
+2.547053337097168
+2.805027723312378
+2.735628366470337
+2.2872753143310547
+2.778341054916382
+2.7160260677337646
+2.333122491836548
+2.2414278984069824
+2.4593660831451416
+2.4251842498779297
+2.351138114929199
+2.278728485107422
+2.249324083328247
+2.1715633869171143
+2.2841923236846924
+2.176236152648926
+2.1916637420654297
+2.25872802734375
+2.1773996353149414
+2.149306535720825
+2.068518877029419
+2.136219024658203
+2.067612409591675
+2.121654987335205
+2.2005391120910645
+2.104386329650879
+2.110905885696411
+2.113635778427124
+2.199506998062134
+2.075819730758667
+2.1579599380493164
+2.0993165969848633
+2.2332496643066406
+2.227419137954712
+2.1038622856140137
+2.468710422515869
+2.437009811401367
+2.932814598083496
+2.125826120376587
+2.2318501472473145
+2.1347434520721436
+2.034472942352295
+2.0793066024780273
+2.037994384765625
+2.0990827083587646
+1.9994711875915527
+2.162616491317749
+1.9324227571487427
+2.1266586780548096
+2.1111581325531006
+2.0752477645874023
+1.9993481636047363
+2.063481092453003
+2.038043737411499
+2.0873093605041504
+2.1108288764953613
+2.0532069206237793
+2.046605110168457
+2.0106618404388428
+2.066922187805176
+2.1161270141601562
+2.005685806274414
+2.1330692768096924
+2.246410608291626
+1.9701011180877686
+2.1053388118743896
+2.041468620300293
+2.0196516513824463
+2.0838382244110107
+2.1349477767944336
+2.0703039169311523
+2.0228161811828613
+2.135704278945923
+2.0178732872009277
+2.085541248321533
+2.0893332958221436
+2.0477397441864014
+2.0198302268981934
+2.028794765472412
+1.9729328155517578
+2.0088436603546143
+1.9547388553619385
+1.9420855045318604
+1.97538161277771
+1.9979429244995117
+2.0433831214904785
+2.051471710205078
+2.02567458152771
+1.924657940864563
+2.0681838989257812
+2.021831750869751
+1.9808897972106934
+2.0321197509765625
+2.072697639465332
+1.9351892471313477
+1.9507025480270386
+1.962476134300232
+2.038299322128296
+2.021409034729004
+1.9815948009490967
+1.981321096420288
+1.9885269403457642
+2.0325732231140137
+2.0177865028381348
+2.0084946155548096
+2.061566114425659
+2.0250244140625
+2.033656120300293
+2.0474255084991455
+2.024677276611328
+2.0438387393951416
+2.036902904510498
+2.0552139282226562
+1.9926022291183472
+2.003462314605713
+2.039696455001831
+2.033088445663452
+2.119306802749634
+2.1412127017974854
+1.9012502431869507
+1.9816093444824219
+2.002694606781006
+1.9530937671661377
+2.0009586811065674
+2.0141875743865967
+1.9930343627929688
+1.9386117458343506
+1.960838794708252
+2.119757652282715
+2.0231010913848877
+1.9535720348358154
+2.0228145122528076
+1.9630509614944458
+2.007620334625244
+2.0979654788970947
+1.9763725996017456
+2.036586284637451
+2.084254264831543
+1.9874351024627686
+1.9625016450881958
+2.0499682426452637
+2.052006721496582
+1.9659134149551392
+1.9821256399154663
+2.0393226146698
+1.9283028841018677
+1.952707290649414
+1.9719617366790771
+2.0875794887542725
+2.063880443572998
+1.9545204639434814
+2.057166337966919
+2.0277135372161865
+2.0686349868774414
+1.968353271484375
+1.944159984588623
+1.9942444562911987
+1.999258279800415
+1.9405463933944702
+2.181469202041626
+2.004579782485962
+2.007533073425293
+1.8890972137451172
+2.028970956802368
+2.1422512531280518
+1.9766666889190674
+1.93157958984375
+1.9728944301605225
+1.9845036268234253
+2.0025794506073
+2.1552085876464844
+2.0128824710845947
+1.9834563732147217
+2.0168967247009277
+2.018819570541382
+2.0443968772888184
+2.0481767654418945
+1.9591223001480103
+1.9688587188720703
+1.9117553234100342
+1.9708819389343262
+1.9421833753585815
+1.9811397790908813
+1.9506497383117676
+1.963924765586853
+2.0028467178344727
+1.88701331615448
+1.9670064449310303
+2.0053606033325195
+1.967231273651123
+1.953969120979309
+2.020817995071411
+1.9918913841247559
+1.9951329231262207
+2.0303423404693604
+2.063878297805786
+2.060255765914917
+1.9147332906723022
+2.0082268714904785
+2.0225212574005127
+2.086463451385498
+2.048895835876465
+2.0298233032226562
+1.8916829824447632
+1.9462493658065796
+2.0172815322875977
+2.015570878982544
+1.941150426864624
+1.9268567562103271
+1.9849915504455566
+1.990517497062683
+1.891248106956482
+2.082061529159546
+2.012291431427002
+1.9780460596084595
+2.0227508544921875
+1.9388108253479004
+2.074808359146118
+1.96702241897583
+1.9972487688064575
+1.9549827575683594
+1.9396823644638062
+2.006556749343872
+2.029141664505005
+2.012838125228882
+1.965696096420288
+1.9946433305740356
+1.9696067571640015
+2.0729191303253174
+1.9537932872772217
+2.0448532104492188
+1.9816415309906006
+1.9145715236663818
+1.9778906106948853
+1.9757189750671387
+2.0078155994415283
+2.011345863342285
+1.9628435373306274
+1.9409021139144897
+1.994929313659668
+1.9337031841278076
+1.9692976474761963
+1.884583592414856
+1.907947301864624
+1.950082540512085
+1.988892674446106
+1.9971873760223389
+1.9371469020843506
+2.033358335494995
+1.923825740814209
+1.9252463579177856
+1.9732799530029297
+1.954003930091858
+2.0107972621917725
+1.9603798389434814
+1.994388222694397
+1.9338879585266113
+2.0239362716674805
+1.9890568256378174
+1.9946115016937256
+1.9699828624725342
+2.0187466144561768
+2.055180311203003
+1.9307559728622437
+1.9609527587890625
+1.9668246507644653
+1.9403523206710815
+1.9313082695007324
+1.9580178260803223
+1.9862620830535889
+1.8883260488510132
+2.000946521759033
+1.8717412948608398
+2.047666311264038
+1.9879977703094482
+2.014636993408203
+1.8878064155578613
+1.9614722728729248
+1.9452754259109497
+1.9162226915359497
+1.876112461090088
+1.931903600692749
+2.0156939029693604
+1.9807313680648804
+1.935334324836731
+1.976224422454834
+1.968974232673645
+1.9314054250717163
+1.9615639448165894
+1.9566726684570312
+1.923357605934143
+1.9631702899932861
+1.9652771949768066
+1.949212908744812
+1.9652155637741089
+2.0258498191833496
+2.0324573516845703
+1.910680890083313
+2.041423797607422
+1.9801734685897827
+1.9778116941452026
+1.8802694082260132
+2.0260815620422363
+1.9524767398834229
+1.9833904504776
+1.9602957963943481
+2.0121493339538574
+1.980547547340393
+1.9909884929656982
+2.029230833053589
+1.9528532028198242
+2.0401535034179688
+2.0045011043548584
+1.8803844451904297
+1.9265668392181396
+1.9508957862854004
+1.9684127569198608
+1.940186858177185
+1.9961156845092773
+2.0926015377044678
+1.994868278503418
+1.8990987539291382
+1.9881521463394165
+1.949927568435669
+1.9208993911743164
+1.9875527620315552
+1.901534914970398
+1.934036374092102
+1.877091884613037
+1.9418374300003052
+1.9581421613693237
+1.895780086517334
+1.942375898361206
+1.9618513584136963
+2.0109028816223145
+1.9461532831192017
+1.9444538354873657
+1.919824481010437
+1.9750152826309204
+1.9858676195144653
+1.9737855195999146
+1.9884088039398193
+1.8678499460220337
+2.0104053020477295
+1.9919812679290771
+1.9881523847579956
+2.0203373432159424
+1.980076789855957
+1.8909492492675781
+1.9341585636138916
+1.9412740468978882
+2.9031338691711426
+2.9893462657928467
+2.9232401847839355
+2.9275264739990234
+2.940025568008423
+2.9086954593658447
+2.899477243423462
+2.9233741760253906
+2.8667945861816406
+2.9148008823394775
+2.9068171977996826
+2.927086591720581
+2.9922549724578857
+2.933474540710449
+3.0869832038879395
+2.855550765991211
+2.907503128051758
+2.828730344772339
+2.911184549331665
+2.8424434661865234
+2.7596724033355713
+2.671910047531128
+2.7001848220825195
+2.527207136154175
+2.585203170776367
+2.4860739707946777
+2.5243051052093506
+2.490060806274414
+2.5344972610473633
+2.363239288330078
+2.4970288276672363
+2.4498348236083984
+2.4393699169158936
+2.415635347366333
+2.4260692596435547
+2.436134099960327
+2.4549450874328613
+2.442680597305298
+2.4032905101776123
+2.319340705871582
+2.404114246368408
+2.3604931831359863
+2.384455680847168
+2.437527894973755
+2.4076149463653564
+2.3640196323394775
+2.344587802886963
+2.407062292098999
+2.356633186340332
+2.371269464492798
+2.4938340187072754
+2.3590123653411865
+2.4026710987091064
+2.397312879562378
+2.5020384788513184
+2.3136911392211914
+2.4257261753082275
+2.3876798152923584
+2.48089599609375
+2.5189731121063232
+2.385528087615967
+2.3916821479797363
+2.3878304958343506
+2.4665145874023438
+2.29632830619812
+2.485928535461426
+2.355079412460327
+2.3252766132354736
+2.3533596992492676
+2.3631844520568848
+2.3301546573638916
+2.316641092300415
+2.467669725418091
+2.291189670562744
+2.4019553661346436
+2.4172346591949463
+2.4059205055236816
+2.305065870285034
+2.395181894302368
+2.364109516143799
+2.417973041534424
+2.4594502449035645
+2.318612813949585
+2.381030797958374
+2.377685308456421
+2.3917529582977295
+2.41424298286438
+2.3090403079986572
+2.314457654953003
+2.368553876876831
+2.3062169551849365
+2.3803560733795166
+2.363961696624756
+2.3271894454956055
+2.3995025157928467
+2.398059129714966
+2.387270450592041
+2.4060235023498535
+2.463818073272705
+2.412264347076416
+2.4300148487091064
+2.4104485511779785
+2.394611120223999
+2.3163349628448486
+2.355356216430664
+2.296701669692993
+2.3760313987731934
+2.2720260620117188
+2.264781951904297
+2.301888942718506
+2.3442115783691406
+2.402860164642334
+2.3652944564819336
+2.323209047317505
+2.2622058391571045
+2.4003231525421143
+2.3351244926452637
+2.3657431602478027
+2.3670504093170166
+2.3427770137786865
+2.2401204109191895
+2.256850004196167
+2.2995357513427734
+2.381305456161499
+2.35136079788208
+2.3071014881134033
+2.3041117191314697
+2.323108673095703
+2.3324830532073975
+2.3674070835113525
+2.3528339862823486
+2.3736867904663086
+2.35978102684021
+2.372903347015381
+2.381537914276123
+2.3238136768341064
+2.373492956161499
+2.3853909969329834
+2.379396677017212
+2.3307127952575684
+2.320748805999756
+2.2932381629943848
+2.3620214462280273
+2.4649393558502197
+2.4756853580474854
+2.238109588623047
+2.3075714111328125
+2.329988956451416
+2.2721314430236816
+2.328680992126465
+2.3561959266662598
+2.327305555343628
+2.2904014587402344
+2.295473575592041
+2.4578957557678223
+2.343916654586792
+2.2663590908050537
+2.3258073329925537
+2.2856929302215576
+2.2794089317321777
+2.3519322872161865
+2.2833311557769775
+2.3349993228912354
+2.3916687965393066
+2.298225164413452
+2.284393787384033
+2.3341572284698486
+2.3788959980010986
+2.2596960067749023
+2.291656494140625
+2.3174057006835938
+2.264270067214966
+2.2678797245025635
+2.3206419944763184
+2.397649049758911
+2.3913753032684326
+2.2839882373809814
+2.3465774059295654
+2.3626561164855957
+2.3636834621429443
+2.2910799980163574
+2.2413551807403564
+2.3050622940063477
+2.281339645385742
+2.22709059715271
+2.4061388969421387
+2.3617310523986816
+2.308514356613159
+2.230891227722168
+2.3719820976257324
+2.4351329803466797
+2.298041820526123
+2.2299365997314453
+2.2950892448425293
+2.315700054168701
+2.3552889823913574
+2.3879315853118896
+2.2840957641601562
+2.263033866882324
+2.3380796909332275
+2.291153907775879
+2.370734453201294
+2.3279869556427
+2.2588655948638916
+2.2600600719451904
+2.2436680793762207
+2.8683102130889893
+2.955106735229492
+2.889101028442383
+2.902029275894165
+2.9063832759857178
+2.8811237812042236
+2.8683438301086426
+2.909396171569824
+2.8241398334503174
+2.873192071914673
+2.8875410556793213
+2.891146659851074
+2.892352342605591
+2.7422776222229004
+2.7644765377044678
+2.5617103576660156
+2.574331521987915
+2.4111008644104004
+2.4762940406799316
+2.4018402099609375
+2.2637739181518555
+2.2664108276367188
+2.307234048843384
+2.167203903198242
+2.168764352798462
+2.1530821323394775
+2.162426710128784
+2.201932430267334
+2.1740167140960693
+2.1304264068603516
+2.1447269916534424
+2.1568522453308105
+2.159431219100952
+2.042879343032837
+2.109067916870117
+2.094522714614868
+2.105018138885498
+2.0899970531463623
+2.0945355892181396
+1.9943711757659912
+2.090766668319702
+2.0237088203430176
+2.0290822982788086
+2.1196744441986084
+2.0683465003967285
+2.0449483394622803
+1.9697374105453491
+2.051265001296997
+1.9921966791152954
+2.0439677238464355
+2.1382555961608887
+2.033642053604126
+2.0391647815704346
+2.0339725017547607
+2.1402902603149414
+2.0125632286071777
+2.0553319454193115
+2.023575782775879
+2.102637529373169
+2.135241746902466
+2.0289559364318848
+1.9444016218185425
+2.0243749618530273
+2.061509847640991
+1.9838166236877441
+2.0633463859558105
+2.040497064590454
+1.9699231386184692
+1.9942600727081299
+1.9896831512451172
+2.01838755607605
+1.956850528717041
+2.1059982776641846
+1.87692391872406
+2.0808050632476807
+2.0388693809509277
+2.0310347080230713
+1.9539872407913208
+2.0214591026306152
+2.0000686645507812
+2.044567108154297
+2.0697782039642334
+2.0196337699890137
+2.0024168491363525
+1.9756317138671875
+2.018644094467163
+2.0884597301483154
+1.9727340936660767
+1.9612483978271484
+1.9720313549041748
+1.897942304611206
+1.9993064403533936
+1.970413088798523
+1.972428798675537
+2.04801344871521
+2.0941638946533203
+2.0488951206207275
+1.9762061834335327
+2.096517562866211
+1.9896910190582275
+2.056574821472168
+2.681694507598877
+3.7423386573791504
+2.7756714820861816
+3.375892400741577
+2.4115281105041504
+2.2621567249298096
+1.9518117904663086
+1.9369221925735474
+1.9610447883605957
+1.9742316007614136
+2.013170003890991
+2.0135750770568848
+1.9990684986114502
+1.895558476448059
+2.0124034881591797
+1.9704335927963257
+1.9435639381408691
+1.9899805784225464
+2.0250720977783203
+1.879473090171814
+1.9305073022842407
+1.9510352611541748
+2.004117727279663
+1.9857908487319946
+1.9652049541473389
+1.9555636644363403
+1.9529551267623901
+1.9904009103775024
+1.9875898361206055
+1.959673285484314
+2.0478780269622803
+1.9997583627700806
+2.0012707710266113
+2.0418343544006348
+1.980334997177124
+2.022806167602539
+1.9894119501113892
+2.017051935195923
+1.961774468421936
+1.9702950716018677
+2.013652801513672
+2.0217981338500977
+2.081554412841797
+2.104412317276001
+1.8730442523956299
+1.9493547677993774
+1.9790160655975342
+1.9283806085586548
+1.9785079956054688
+1.9920883178710938
+1.9751664400100708
+1.909772276878357
+1.9448466300964355
+2.085184097290039
+1.986045241355896
+1.9140816926956177
+1.9746757745742798
+1.9213155508041382
+1.9211947917938232
+2.001526355743408
+1.9168461561203003
+1.9723021984100342
+2.0358469486236572
+1.9499289989471436
+1.9265254735946655
+1.9919445514678955
+2.0048439502716064
+1.9192848205566406
+1.9337903261184692
+1.9885139465332031
+1.888433575630188
+1.888271450996399
+1.9388072490692139
+2.064286947250366
+2.022580862045288
+1.9261304140090942
+2.0187442302703857
+2.0048909187316895
+2.0289673805236816
+1.9305658340454102
+1.8808473348617554
+1.9506397247314453
+1.9474306106567383
+1.888062596321106
+2.0225913524627686
+1.946509599685669
+1.9649015665054321
+1.8482866287231445
+1.9708764553070068
+2.108531951904297
+1.932660460472107
+1.889907717704773
+1.9257434606552124
+1.949795126914978
+1.9481362104415894
+2.0436980724334717
+1.9093137979507446
+1.922217845916748
+1.9716607332229614
+1.9691201448440552
+1.9962539672851562
+1.9979228973388672
+1.9136314392089844
+1.924370288848877
+1.878726840019226
+1.9302316904067993
+1.8934210538864136
+1.9435793161392212
+1.9008246660232544
+1.9121105670928955
+1.9581456184387207
+1.8302971124649048
+1.9127693176269531
+1.9549938440322876
+1.9112125635147095
+1.8851078748703003
+1.9738575220108032
+1.9307962656021118
+1.8757436275482178
+1.951522707939148
+1.9914212226867676
+1.9881553649902344
+1.8528406620025635
+1.932457685470581
+1.9598414897918701
+2.0221831798553467
+1.9975298643112183
+1.974191665649414
+1.8416138887405396
+1.8923487663269043
+1.9671038389205933
+1.9571735858917236
+1.8959017992019653
+1.881516933441162
+1.941861629486084
+1.9548325538635254
+1.8485629558563232
+2.0408880710601807
+1.9459575414657593
+1.920559287071228
+1.9562184810638428
+1.869214415550232
+2.027977228164673
+1.8985239267349243
+1.9360655546188354
+1.9064689874649048
+1.893357515335083
+1.9572734832763672
+1.959425687789917
+1.9504162073135376
+1.915704607963562
+1.9247032403945923
+1.8962852954864502
+1.9939450025558472
+1.8949679136276245
+1.9886282682418823
+1.9124191999435425
+1.8508021831512451
+1.9308496713638306
+1.9052728414535522
+1.9367715120315552
+1.954148530960083
+1.893066644668579
+1.8919380903244019
+1.9397865533828735
+1.8771545886993408
+1.911764144897461
+1.8293343782424927
+1.8582924604415894
+1.8993663787841797
+1.927506685256958
+1.9374785423278809
+1.878921389579773
+1.9644756317138672
+1.8839764595031738
+1.8637511730194092
+1.9096487760543823
+1.8793857097625732
+1.9524024724960327
+1.9070466756820679
+1.9424972534179688
+1.8683760166168213
+1.96720552444458
+1.9203609228134155
+1.933881163597107
+1.911076545715332
+1.9485195875167847
+1.9902540445327759
+1.8677382469177246
+1.9107203483581543
+1.8963127136230469
+1.878532886505127
+1.8741214275360107
+1.8962459564208984
+1.9270169734954834
+1.822313666343689
+1.9335123300552368
+1.8077718019485474
+1.979479193687439
+1.8962422609329224
+9.077529907226562
+9.132511138916016
+9.042893409729004
+8.989336967468262
+9.046574592590332
+9.08563232421875
+9.037187576293945
+9.283695220947266
+8.857682228088379
+9.107985496520996
+9.01698112487793
+9.121703147888184
+9.125176429748535
+9.178107261657715
+9.141932487487793
+9.037771224975586
+9.326400756835938
+9.132575035095215
+7.928733825683594
+6.627320766448975
+6.212563514709473
+3.5670363903045654
+3.1349127292633057
+2.8404691219329834
+3.727778911590576
+3.025153160095215
+3.2045600414276123
+2.8443710803985596
+2.7299466133117676
+2.504077911376953
+2.5383458137512207
+2.4910643100738525
+2.471630334854126
+2.3563406467437744
+2.3441176414489746
+2.322169303894043
+2.309156656265259
+2.2283196449279785
+2.237088680267334
+2.1449544429779053
+2.2319633960723877
+2.1587073802948
+2.1260554790496826
+2.2134342193603516
+2.1660780906677246
+2.1257705688476562
+2.098116159439087
+2.1415908336639404
+2.033688545227051
+2.1432816982269287
+2.1933350563049316
+2.125323534011841
+2.110483169555664
+2.12638521194458
+2.1955103874206543
+2.0600948333740234
+2.1260664463043213
+2.083832025527954
+2.1819100379943848
+2.1576249599456787
+2.026470184326172
+2.066328763961792
+2.062223434448242
+2.051326274871826
+2.0644278526306152
+2.1224513053894043
+2.067174196243286
+2.005079746246338
+2.029134511947632
+2.0224995613098145
+1.9982318878173828
+2.004148006439209
+2.115121841430664
+1.9275288581848145
+2.071336507797241
+2.0028417110443115
+2.0620880126953125
+1.9871171712875366
+2.040858745574951
+2.026042938232422
+2.0469675064086914
+2.1074304580688477
+2.034921407699585
+2.031122922897339
+2.036898374557495
+2.0326390266418457
+2.0533275604248047
+1.9249309301376343
+1.972206711769104
+2.0265896320343018
+1.9351814985275269
+2.010326623916626
+1.970857858657837
+2.0022268295288086
+2.0149712562561035
+2.088662624359131
+2.0246951580047607
+2.024038314819336
+2.081160306930542
+2.025907039642334
+2.093933343887329
+2.02174973487854
+2.025456428527832
+1.9912464618682861
+2.0274569988250732
+1.9637454748153687
+1.9899460077285767
+1.9311825037002563
+1.929753065109253
+1.982645034790039
+2.005631685256958
+2.0578372478485107
+2.026233196258545
+1.9791078567504883
+1.9451409578323364
+2.0605099201202393
+1.9929940700531006
+1.9714890718460083
+2.012403726577759
+2.030695676803589
+1.9254634380340576
+1.9316132068634033
+1.9518537521362305
+1.9700064659118652
+2.0206384658813477
+1.9416636228561401
+1.9665944576263428
+1.9593101739883423
+2.004699945449829
+1.9883925914764404
+2.0134081840515137
+2.0148725509643555
+2.001272439956665
+1.9852811098098755
+2.0369675159454346
+1.9674417972564697
+1.986908197402954
+2.0158474445343018
+2.059922933578491
+1.9482269287109375
+1.9487576484680176
+2.0003318786621094
+2.031407356262207
+2.0024688243865967
+2.0853729248046875
+1.8388341665267944
+1.9388580322265625
+1.981965184211731
+1.8931968212127686
+2.0135178565979004
+1.9700813293457031
+1.9296095371246338
+1.9117447137832642
+1.910154938697815
+2.0708069801330566
+2.096795082092285
+1.9042319059371948
+1.9526878595352173
+1.890297532081604
+1.8945454359054565
+1.9628530740737915
+1.9067662954330444
+1.9322309494018555
+2.009748935699463
+1.908682107925415
+1.8914058208465576
+1.981311321258545
+1.9790362119674683
+1.8714607954025269
+1.9315694570541382
+1.9444152116775513
+1.9003596305847168
+1.9029159545898438
+1.9264975786209106
+2.011046886444092
+2.0004348754882812
+1.8949593305587769
+2.0086052417755127
+1.9595798254013062
+2.0451583862304688
+1.8920937776565552
+1.8874092102050781
+1.89480721950531
+1.9112865924835205
+1.8415203094482422
+1.98038911819458
+1.9511364698410034
+1.9526814222335815
+1.8605952262878418
+1.9374276399612427
+2.059133768081665
+1.9526737928390503
+1.8861408233642578
+1.889835238456726
+1.9041341543197632
+1.9166258573532104
+1.9702732563018799
+1.8720413446426392
+1.8883534669876099
+1.9452214241027832
+1.8923641443252563
+1.9359681606292725
+1.9368394613265991
+1.8643262386322021
+1.8875247240066528
+1.821158528327942
+1.89815092086792
+1.8617095947265625
+1.8675485849380493
+1.890479326248169
+1.8385499715805054
+1.883615255355835
+1.7622298002243042
+1.8530690670013428
+1.8970344066619873
+1.826257586479187
+1.8146378993988037
+1.8772374391555786
+1.8875858783721924
+1.797236680984497
+1.892612099647522
+1.9448933601379395
+1.9252960681915283
+1.7758488655090332
+1.8935260772705078
+1.8957321643829346
+1.9144161939620972
+1.9138658046722412
+1.8862251043319702
+1.7630114555358887
+1.8266767263412476
+1.891740083694458
+1.8816874027252197
+1.81128990650177
+1.8415000438690186
+1.8521674871444702
+1.8895268440246582
+1.792420744895935
+1.9610036611557007
+1.866414189338684
+1.8235278129577637
+1.878346562385559
+1.8540832996368408
+1.8635368347167969
+1.835086464881897
+1.8837051391601562
+1.8162460327148438
+1.8077638149261475
+1.868580937385559
+1.8702497482299805
+1.8506118059158325
+1.8554178476333618
+1.8355852365493774
+1.7913291454315186
+1.9027163982391357
+1.752832293510437
+1.8397105932235718
+1.7967711687088013
+1.764480710029602
+1.8392390012741089
+1.7861169576644897
+1.8272480964660645
+1.821272611618042
+1.7703930139541626
+1.730918288230896
+1.8298149108886719
+1.7690958976745605
+1.7930121421813965
+1.7262858152389526
+1.7445708513259888
+1.7821664810180664
+1.8347049951553345
+1.8299219608306885
+1.7545065879821777
+1.810610055923462
+1.7585477828979492
+1.7405349016189575
+1.773119568824768
+1.7478241920471191
+1.8596006631851196
+1.78317129611969
+1.7964236736297607
+1.7729965448379517
+1.8396148681640625
+1.7550019025802612
+1.7620997428894043
+1.8088219165802002
+1.8074027299880981
+1.820791244506836
+1.7388768196105957
+1.820876121520996
+1.7755852937698364
+1.7781819105148315
+1.749185562133789
+1.7792543172836304
+1.780529260635376
+1.7382493019104004
+1.7901427745819092
+1.7360947132110596
+1.839638352394104
+Dataset({
+    features: ['bert_ids', 'bert_mask', 'gpt_ids', 'gpt_mask'],
+    num_rows: 1000
+})
+3.206770181655884
+3.3064815998077393
+3.259049415588379
+3.2667994499206543
+3.3492627143859863
+3.3216888904571533
+3.2986302375793457
+3.3297314643859863
+3.291923761367798
+3.2735838890075684
+3.284691572189331
+3.3839197158813477
+3.2438950538635254
+3.107567071914673
+2.796130657196045
+2.8130054473876953
+2.627418041229248
+2.631183385848999
+2.6296253204345703
+2.3872196674346924
+2.381509780883789
+2.443648338317871
+2.2982990741729736
+2.2970478534698486
+2.1581103801727295
+2.341789960861206
+2.144399642944336
+2.1793057918548584
+2.163543224334717
+2.222931146621704
+2.130383014678955
+2.0841872692108154
+2.136223316192627
+2.01118803024292
+2.0914957523345947
+2.0601375102996826
+2.0995960235595703
+2.0219287872314453
+2.106896162033081
+2.140378475189209
+2.0070743560791016
+2.0308873653411865
+1.9993746280670166
+2.0672805309295654
+2.0432701110839844
+2.0689897537231445
+2.079021692276001
+2.0031392574310303
+2.0529544353485107
+2.011131763458252
+1.9836562871932983
+2.037205219268799
+2.0590927600860596
+2.046635150909424
+1.9723955392837524
+2.1627132892608643
+1.9869030714035034
+2.0208890438079834
+2.07755184173584
+2.0862886905670166
+1.993900179862976
+2.0049045085906982
+1.9118881225585938
+2.0394716262817383
+1.9247863292694092
+1.9555999040603638
+2.015403985977173
+1.8699952363967896
+1.9065496921539307
+1.973626971244812
+1.9156239032745361
+1.9443222284317017
+1.9435640573501587
+1.9458286762237549
+1.9606554508209229
+1.9036136865615845
+1.942937970161438
+1.9175478219985962
+2.02123761177063
+1.9270981550216675
+1.9081517457962036
+1.939164161682129
+1.8189594745635986
+1.9153282642364502
+1.9819728136062622
+1.92916738986969
+1.847762942314148
+1.9316047430038452
+1.9145612716674805
+1.9526467323303223
+1.8931114673614502
+1.8489543199539185
+1.868333339691162
+1.8664363622665405
+1.8313534259796143
+1.8388946056365967
+1.8442014455795288
+1.8701362609863281
+1.8297064304351807
+1.878760576248169
+1.8296728134155273
+1.832473874092102
+1.7923167943954468
+1.8404196500778198
+1.8535045385360718
+1.9992855787277222
+1.9172000885009766
+1.8224581480026245
+1.8724149465560913
+1.9073177576065063
+1.784293532371521
+1.842605710029602
+1.829278588294983
+1.8065998554229736
+1.8271238803863525
+1.8979085683822632
+1.8924421072006226
+1.8534210920333862
+1.823302984237671
+1.942892074584961
+1.7339619398117065
+1.7820051908493042
+1.741888403892517
+1.8297491073608398
+1.8007186651229858
+1.8355463743209839
+1.7703436613082886
+1.7267197370529175
+1.7864978313446045
+1.769525170326233
+1.77447509765625
+1.7475448846817017
+1.7805955410003662
+1.7928792238235474
+1.7938891649246216
+1.7422453165054321
+1.8131624460220337
+1.7229100465774536
+1.7636643648147583
+1.8100504875183105
+1.8216015100479126
+1.7914625406265259
+1.7934975624084473
+1.8187730312347412
+1.8378055095672607
+1.754210114479065
+1.7945396900177002
+1.8363789319992065
+1.8243399858474731
+1.8716773986816406
+1.7719944715499878
+1.7157999277114868
+1.6952592134475708
+1.6889028549194336
+1.7514711618423462
+1.651489496231079
+1.7050246000289917
+1.7447324991226196
+1.7061556577682495
+1.7772696018218994
+1.7105103731155396
+1.727048397064209
+1.7441574335098267
+1.684199571609497
+1.7061580419540405
+1.7374228239059448
+1.6808868646621704
+1.6868860721588135
+1.6544207334518433
+1.7793140411376953
+1.68466317653656
+1.7209213972091675
+1.725037693977356
+1.7789063453674316
+1.647592306137085
+1.7141965627670288
+1.6621743440628052
+1.6242836713790894
+1.7649569511413574
+1.7116355895996094
+1.6620266437530518
+1.6611099243164062
+1.6558986902236938
+1.6031367778778076
+1.7099353075027466
+1.703548789024353
+1.6561558246612549
+1.5842176675796509
+1.6277415752410889
+1.6698604822158813
+1.6035220623016357
+1.6282867193222046
+1.6624200344085693
+1.653295636177063
+1.6305172443389893
+1.666588306427002
+1.7077393531799316
+1.708912968635559
+1.6301486492156982
+1.5966298580169678
+1.638783574104309
+1.5952229499816895
+1.6943730115890503
+1.6016497611999512
+1.6093670129776
+1.636460542678833
+1.7187727689743042
+1.6371060609817505
+1.6609468460083008
+1.5907442569732666
+1.5632038116455078
+1.5548368692398071
+1.6531649827957153
+1.5494681596755981
+1.6177183389663696
+1.544184684753418
+1.5889432430267334
+1.6226426362991333
+1.622356653213501
+1.6148343086242676
+1.5718982219696045
+1.684342384338379
+1.551971673965454
+1.5879687070846558
+1.6098613739013672
+1.5977873802185059
+1.5877081155776978
+1.5301713943481445
+1.5965805053710938
+1.519392728805542
+1.5690456628799438
+1.580166220664978
+1.5283055305480957
+1.5690973997116089
+1.613114356994629
+1.5904992818832397
+1.4911433458328247
+1.542515754699707
+1.5524901151657104
+1.637045979499817
+1.530718445777893
+1.545763611793518
+1.610203742980957
+1.4979820251464844
+1.5315272808074951
+1.5209804773330688
+1.6157033443450928
+1.532174825668335
+1.5874227285385132
+1.4429386854171753
+1.5349527597427368
+1.515784740447998
+1.538888692855835
+1.4925684928894043
+1.5729361772537231
+1.5175368785858154
+1.5743372440338135
+1.5598996877670288
+1.5021458864212036
+1.5723637342453003
+1.6081558465957642
+1.470703363418579
+1.4352095127105713
+1.586108922958374
+1.4925609827041626
+1.5103689432144165
+1.5068572759628296
+1.5195280313491821
+1.5776721239089966
+1.4670405387878418
+1.5627847909927368
+1.4901891946792603
+1.4368120431900024
+1.514532208442688
+1.5190303325653076
+1.4784666299819946
+1.4351550340652466
+1.5102150440216064
+1.4732344150543213
+1.5509847402572632
+1.4907000064849854
+1.5189634561538696
+1.5514930486679077
+1.4855289459228516
+1.4691617488861084
+1.4656022787094116
+1.4642897844314575
+1.455406665802002
+1.447816252708435
+1.4849976301193237
+1.4886178970336914
+1.4644200801849365
+1.4869067668914795
+1.4240914583206177
+1.4398211240768433
+1.4290682077407837
+1.498986840248108
+1.4961066246032715
+1.5419708490371704
+1.5001064538955688
+1.5168073177337646
+2.912318229675293
+3.017974853515625
+2.9627487659454346
+2.9485459327697754
+3.0530550479888916
+3.054486036300659
+3.010293960571289
+3.0555665493011475
+2.994401216506958
+2.956636428833008
+2.971820592880249
+3.089243173599243
+2.902564287185669
+2.8856186866760254
+2.693120002746582
+2.7488598823547363
+2.620623826980591
+2.6092143058776855
+2.5883736610412598
+2.407672643661499
+2.4057490825653076
+2.4079484939575195
+2.3601250648498535
+2.350698709487915
+2.1750218868255615
+2.361398696899414
+2.1764168739318848
+2.191094398498535
+2.187499523162842
+2.2483909130096436
+2.1545584201812744
+2.083087682723999
+2.1252331733703613
+2.020250082015991
+2.1155266761779785
+2.061522960662842
+2.09491229057312
+2.0179214477539062
+2.093350887298584
+2.117577314376831
+2.011143684387207
+2.0168466567993164
+1.9892574548721313
+2.064626932144165
+2.032277822494507
+2.0547945499420166
+2.0514962673187256
+1.993664264678955
+2.0298306941986084
+1.9933055639266968
+1.9598406553268433
+2.010458469390869
+2.025294542312622
+2.0452868938446045
+1.9402921199798584
+2.1439242362976074
+1.9751462936401367
+1.9998334646224976
+2.0787277221679688
+2.091575860977173
+1.9561423063278198
+1.977576732635498
+1.8936688899993896
+2.02998685836792
+1.9009792804718018
+1.9364176988601685
+1.9834957122802734
+1.846212387084961
+1.8596895933151245
+1.9435611963272095
+1.8929563760757446
+1.9165444374084473
+1.902003288269043
+1.9118858575820923
+1.9462810754776
+1.8657562732696533
+1.9108389616012573
+1.8873944282531738
+1.9900614023208618
+1.8764454126358032
+1.8740943670272827
+1.8997682332992554
+1.7739871740341187
+1.874191403388977
+1.9264379739761353
+1.8779675960540771
+1.815323829650879
+1.9113091230392456
+1.8843821287155151
+1.9185967445373535
+1.8684310913085938
+1.80781888961792
+1.830568552017212
+1.8182748556137085
+1.7831343412399292
+1.793710470199585
+1.8040375709533691
+1.8467499017715454
+1.7857872247695923
+1.8448994159698486
+1.7904741764068604
+1.8065296411514282
+1.743772029876709
+1.7993369102478027
+1.8146270513534546
+1.9431838989257812
+1.8502120971679688
+1.8050707578659058
+1.8476558923721313
+1.8682106733322144
+1.737773060798645
+1.799835205078125
+1.784868836402893
+1.764617919921875
+1.77693772315979
+1.8545832633972168
+1.8286839723587036
+1.7849751710891724
+1.7767835855484009
+1.907017707824707
+1.6774274110794067
+1.732132911682129
+1.6880213022232056
+1.7804670333862305
+1.7555779218673706
+1.8178058862686157
+1.7229321002960205
+1.675759196281433
+1.7359975576400757
+1.7284519672393799
+1.7323169708251953
+1.7011432647705078
+1.7333950996398926
+1.7526829242706299
+1.7528961896896362
+1.7046802043914795
+1.7583190202713013
+1.6739474534988403
+1.727999210357666
+1.7631114721298218
+1.7762508392333984
+1.766140341758728
+1.7498927116394043
+1.7945687770843506
+1.7722662687301636
+1.7062177658081055
+1.7604877948760986
+1.7813774347305298
+1.7306885719299316
+1.8190749883651733
+1.719972014427185
+1.6621195077896118
+1.6414788961410522
+1.6316542625427246
+1.7087478637695312
+1.600036382675171
+1.6840977668762207
+1.6875532865524292
+1.6495418548583984
+1.72834312915802
+1.6394730806350708
+1.679866909980774
+1.6863316297531128
+1.647653341293335
+1.6605745553970337
+1.6831425428390503
+1.6301729679107666
+1.6440409421920776
+1.6098527908325195
+1.7194849252700806
+1.6269069910049438
+1.6715914011001587
+1.6761460304260254
+1.72868013381958
+1.618768572807312
+1.67294180393219
+1.621018648147583
+1.5882229804992676
+1.7149412631988525
+1.636000156402588
+1.6130619049072266
+1.6112291812896729
+1.613754391670227
+1.548832654953003
+1.6479676961898804
+1.6763092279434204
+1.620165467262268
+1.526809573173523
+1.5717136859893799
+1.6295379400253296
+1.556673526763916
+1.5577654838562012
+1.610041618347168
+1.5993828773498535
+1.5819294452667236
+1.6249151229858398
+1.671915888786316
+1.6686683893203735
+1.5813640356063843
+1.53976309299469
+1.6022725105285645
+1.5684257745742798
+1.6452776193618774
+1.5581004619598389
+1.5537476539611816
+1.5885608196258545
+1.6631780862808228
+1.5885088443756104
+1.6055152416229248
+1.5541012287139893
+1.5150614976882935
+1.4992214441299438
+1.6085169315338135
+1.5062299966812134
+1.597357988357544
+1.4969788789749146
+1.5483394861221313
+1.5921897888183594
+1.5787138938903809
+1.5599040985107422
+1.5395281314849854
+1.64982271194458
+1.514839768409729
+1.553723692893982
+1.5630241632461548
+1.5595134496688843
+1.5408992767333984
+1.499585509300232
+1.5476677417755127
+1.476175308227539
+1.5309101343154907
+1.5153969526290894
+1.4818497896194458
+1.5417193174362183
+1.5718905925750732
+1.5359069108963013
+1.4524585008621216
+1.523224115371704
+1.5140233039855957
+1.6104212999343872
+1.5336062908172607
+1.5427770614624023
+1.568218469619751
+1.479195237159729
+1.4992289543151855
+1.489743709564209
+1.585517168045044
+1.4931455850601196
+1.541822910308838
+1.4036023616790771
+1.496556043624878
+1.483094334602356
+1.515442132949829
+1.4491994380950928
+1.5389496088027954
+1.4835797548294067
+1.5469019412994385
+1.5073752403259277
+1.467199683189392
+1.5441787242889404
+1.5695182085037231
+1.427193522453308
+1.4079480171203613
+1.5614407062530518
+1.4823970794677734
+1.4693880081176758
+1.4692670106887817
+1.4836593866348267
+1.553080677986145
+1.4191588163375854
+1.5583243370056152
+1.4533337354660034
+1.424468994140625
+1.4804567098617554
+1.497151494026184
+1.4543770551681519
+1.4180335998535156
+1.4706346988677979
+1.4575104713439941
+1.5263466835021973
+1.4573633670806885
+1.516369104385376
+1.5294009447097778
+1.478739857673645
+1.4476197957992554
+1.4540915489196777
+1.4454141855239868
+1.436652660369873
+1.455379843711853
+1.448630452156067
+1.4768435955047607
+1.4427522420883179
+1.470528244972229
+1.3886429071426392
+1.422611951828003
+1.4209461212158203
+1.4733600616455078
+1.4783449172973633
+1.5200004577636719
+1.4656448364257812
+2.8226189613342285
+2.914393186569214
+2.873098373413086
+2.8547346591949463
+2.9576549530029297
+2.943324089050293
+2.9079878330230713
+2.950751304626465
+2.896941900253296
+2.84926438331604
+2.8766021728515625
+2.9788753986358643
+2.8029727935791016
+2.814439535140991
+2.6589202880859375
+2.7402732372283936
+2.622955083847046
+2.6693670749664307
+2.67154860496521
+2.4792985916137695
+2.4837987422943115
+2.5044798851013184
+2.4103305339813232
+2.3819127082824707
+2.2814550399780273
+2.4555623531341553
+2.2380197048187256
+2.272810697555542
+2.262831926345825
+2.3040828704833984
+2.234494209289551
+2.1445183753967285
+2.179027557373047
+2.0834569931030273
+2.1881911754608154
+2.116586208343506
+2.1594927310943604
+2.0734174251556396
+2.137005090713501
+2.153935432434082
+2.0443477630615234
+2.0788204669952393
+2.0246667861938477
+2.0895838737487793
+2.082711696624756
+2.0870397090911865
+2.0871520042419434
+2.0202102661132812
+2.0637502670288086
+2.017249584197998
+1.99732506275177
+2.04355788230896
+2.0522379875183105
+2.0660488605499268
+1.9796887636184692
+2.1786653995513916
+1.9926530122756958
+2.0045995712280273
+2.096853256225586
+2.0941381454467773
+2.0019583702087402
+2.022831439971924
+1.9214165210723877
+2.0601773262023926
+1.9359833002090454
+1.9682070016860962
+2.015526056289673
+1.8845648765563965
+1.9061827659606934
+1.9713428020477295
+1.9269075393676758
+1.955804467201233
+1.9355255365371704
+1.9291558265686035
+1.978359341621399
+1.901422381401062
+1.942766547203064
+1.909977674484253
+2.0276803970336914
+1.9068353176116943
+1.9072059392929077
+1.940669059753418
+1.8127872943878174
+1.9290655851364136
+1.9806225299835205
+1.923256516456604
+1.8542425632476807
+1.9511381387710571
+1.9241406917572021
+1.958759069442749
+1.930248737335205
+1.875972032546997
+1.8839287757873535
+1.8833616971969604
+1.848625659942627
+1.865285038948059
+1.8690993785858154
+1.9049466848373413
+1.8405660390853882
+1.900990605354309
+1.8530497550964355
+1.8582323789596558
+1.8173534870147705
+1.8593207597732544
+1.8687400817871094
+2.0219030380249023
+1.9393912553787231
+1.8549667596817017
+1.9166260957717896
+1.9353827238082886
+1.8014482259750366
+1.8607486486434937
+1.854920506477356
+1.8151942491531372
+1.840510368347168
+1.9284241199493408
+1.8986480236053467
+1.872823715209961
+1.8601460456848145
+1.9690135717391968
+1.7691190242767334
+1.830047369003296
+1.7814176082611084
+1.883697509765625
+1.8622865676879883
+1.8977004289627075
+1.8249928951263428
+1.7773317098617554
+1.8355721235275269
+1.8235901594161987
+1.8401106595993042
+1.799891471862793
+1.8471083641052246
+1.8521339893341064
+1.8496204614639282
+1.8088358640670776
+1.8661832809448242
+1.780836820602417
+1.8126357793807983
+1.868838906288147
+1.8714959621429443
+1.8555917739868164
+1.8400375843048096
+1.8918919563293457
+1.867319107055664
+1.7987090349197388
+1.840743064880371
+1.8734134435653687
+1.8462989330291748
+1.9230586290359497
+1.8540900945663452
+1.7905755043029785
+1.7904150485992432
+1.7768654823303223
+1.8516210317611694
+1.7329468727111816
+1.8007344007492065
+1.8291479349136353
+1.7873178720474243
+1.8371604681015015
+1.77240788936615
+1.8360059261322021
+1.8219971656799316
+1.7648043632507324
+1.7911871671676636
+1.8221077919006348
+1.7550793886184692
+1.7772048711776733
+1.741991400718689
+1.8392632007598877
+1.7584774494171143
+1.7929552793502808
+1.8104119300842285
+1.8490395545959473
+1.747505784034729
+1.8199561834335327
+1.7459551095962524
+1.713599681854248
+1.8457276821136475
+1.795414686203003
+1.7591603994369507
+1.7731897830963135
+1.7657546997070312
+1.7067457437515259
+1.8109768629074097
+1.8441388607025146
+1.7956387996673584
+1.671684980392456
+1.730909824371338
+1.7891044616699219
+1.7386611700057983
+1.7181599140167236
+1.7989085912704468
+1.7629176378250122
+1.7435195446014404
+1.7793039083480835
+1.8294504880905151
+1.8328895568847656
+1.7319878339767456
+1.6971311569213867
+1.7527230978012085
+1.7266255617141724
+1.802908182144165
+1.7238309383392334
+1.7098078727722168
+1.7577197551727295
+1.8306517601013184
+1.7613275051116943
+1.771370768547058
+1.7311910390853882
+1.709004282951355
+1.7008838653564453
+1.8026689291000366
+1.6879067420959473
+1.7873743772506714
+1.6758277416229248
+1.7307097911834717
+1.7739757299423218
+1.769576072692871
+1.7629570960998535
+1.7280552387237549
+1.8397631645202637
+1.69383704662323
+1.7367687225341797
+1.7741892337799072
+1.7388426065444946
+1.7408488988876343
+1.6855831146240234
+1.7406808137893677
+1.6654963493347168
+1.7295371294021606
+1.7190076112747192
+1.6855628490447998
+1.7371900081634521
+1.7699090242385864
+1.721838355064392
+1.6352049112319946
+1.690916895866394
+1.7151005268096924
+1.7959022521972656
+1.7269352674484253
+1.7558058500289917
+1.7938804626464844
+1.66856849193573
+1.7263922691345215
+1.7027385234832764
+1.8018584251403809
+1.69571053981781
+1.7509047985076904
+1.6066449880599976
+1.7414265871047974
+1.6861591339111328
+1.7447524070739746
+1.6696884632110596
+1.7629145383834839
+1.6726804971694946
+1.7476332187652588
+1.7418800592422485
+1.6964472532272339
+1.771837592124939
+1.7761545181274414
+1.6663061380386353
+1.5956408977508545
+1.768521785736084
+1.6716816425323486
+1.6909267902374268
+1.6970125436782837
+1.7139238119125366
+1.777622103691101
+1.6186984777450562
+1.7887203693389893
+1.7100197076797485
+1.6359763145446777
+1.7178919315338135
+1.7256194353103638
+1.6899629831314087
+1.6300415992736816
+1.7218480110168457
+1.691003441810608
+1.757144570350647
+1.689720869064331
+1.7643795013427734
+1.754626989364624
+1.7136127948760986
+1.6781238317489624
+1.6872532367706299
+1.7051477432250977
+1.6642711162567139
+1.670806884765625
+1.6955262422561646
+1.7111009359359741
+1.675084114074707
+1.7208207845687866
+1.6230552196502686
+1.6497141122817993
+1.6587141752243042
+1.7210655212402344
+1.7131024599075317
+1.7643123865127563
+1.7107570171356201
+8.472166061401367
+8.618107795715332
+8.4598388671875
+8.421849250793457
+8.546393394470215
+8.57901668548584
+8.259504318237305
+8.60146427154541
+8.597274780273438
+8.325065612792969
+8.59875202178955
+8.571907043457031
+8.332703590393066
+8.395456314086914
+8.35807991027832
+8.075227737426758
+7.716554164886475
+7.470157623291016
+7.074289798736572
+6.972628593444824
+6.801981449127197
+6.759703159332275
+6.447592735290527
+6.417557716369629
+6.12708044052124
+6.157720565795898
+5.500258445739746
+5.8278117179870605
+5.5840373039245605
+5.640176773071289
+5.541398048400879
+5.370859622955322
+5.339351654052734
+5.174220561981201
+5.1434736251831055
+5.0833420753479
+5.14378547668457
+4.878887176513672
+5.094911098480225
+5.090210914611816
+4.96907901763916
+4.799130916595459
+4.732236862182617
+4.7848005294799805
+4.92372465133667
+4.6947102546691895
+4.824540138244629
+4.879828453063965
+4.750055313110352
+4.74404239654541
+4.746341228485107
+4.633823394775391
+4.7454376220703125
+4.695923328399658
+4.708611488342285
+4.839892387390137
+4.600050926208496
+4.573491096496582
+4.727167129516602
+4.622663974761963
+4.527769088745117
+4.673382759094238
+4.373559474945068
+4.4767279624938965
+4.455807209014893
+4.463255882263184
+4.648176193237305
+4.30618143081665
+4.45853853225708
+4.4737114906311035
+4.474766254425049
+4.527994155883789
+4.432140827178955
+4.3675761222839355
+4.449988842010498
+4.27495813369751
+4.498732089996338
+4.4017839431762695
+4.462965965270996
+4.298994064331055
+4.433365821838379
+4.34536075592041
+4.404782772064209
+4.417825698852539
+4.413508892059326
+4.382611274719238
+4.28045654296875
+4.289316177368164
+4.264948844909668
+4.522050380706787
+4.303073406219482
+4.21142578125
+4.375192165374756
+4.195071220397949
+4.1469197273254395
+4.3275346755981445
+4.1907572746276855
+4.272511959075928
+4.110721111297607
+4.198878288269043
+4.310205459594727
+4.297377109527588
+4.148044586181641
+4.205111026763916
+4.235037326812744
+4.323607921600342
+4.21734094619751
+4.136247158050537
+4.296787261962891
+4.301819801330566
+4.121246814727783
+4.231699466705322
+4.239721775054932
+4.007221698760986
+4.237841606140137
+4.286337852478027
+4.276725769042969
+4.1766037940979
+4.164882183074951
+4.273746967315674
+4.114746570587158
+4.032882213592529
+4.081890106201172
+4.08479642868042
+4.161671161651611
+4.102771282196045
+3.9679300785064697
+3.9146292209625244
+4.0346903800964355
+4.106172561645508
+4.121490478515625
+3.9804582595825195
+4.0562543869018555
+4.179812908172607
+4.098227024078369
+3.9951086044311523
+4.059361934661865
+4.067028999328613
+4.026604652404785
+3.9955837726593018
+4.163026332855225
+4.034265995025635
+4.046266555786133
+4.049558639526367
+4.18617582321167
+3.9934356212615967
+4.0299601554870605
+4.180856227874756
+4.191703796386719
+4.300998210906982
+4.005713939666748
+3.9692904949188232
+3.9595859050750732
+4.050513744354248
+4.047720432281494
+3.9085826873779297
+3.9902963638305664
+3.988206624984741
+4.055477619171143
+3.999537467956543
+3.9305758476257324
+4.135458469390869
+4.003622055053711
+3.8937458992004395
+3.975983142852783
+3.9532480239868164
+3.9541420936584473
+3.971583127975464
+3.9192516803741455
+3.9922876358032227
+3.8822109699249268
+3.833667516708374
+4.0421977043151855
+3.9739692211151123
+3.8386566638946533
+3.8885498046875
+3.864389181137085
+3.8600382804870605
+3.9627339839935303
+3.9184062480926514
+3.838428020477295
+3.892507791519165
+3.7608299255371094
+3.7509405612945557
+3.941411256790161
+3.957681894302368
+3.885263204574585
+3.8014047145843506
+3.7322115898132324
+3.8219234943389893
+3.804715871810913
+3.8536088466644287
+3.9417920112609863
+3.9567794799804688
+3.9337527751922607
+3.9134268760681152
+3.938246011734009
+3.911489248275757
+3.8266894817352295
+3.8196327686309814
+3.87947154045105
+3.802217483520508
+3.832258462905884
+3.8812694549560547
+3.7675957679748535
+3.8264899253845215
+4.032125949859619
+3.777024745941162
+3.7710907459259033
+3.949516773223877
+3.885774612426758
+3.60622501373291
+3.87428617477417
+3.749410390853882
+3.902331829071045
+3.813596487045288
+3.723181962966919
+3.790508270263672
+3.7027981281280518
+3.702969551086426
+3.775965929031372
+3.8064370155334473
+3.792612314224243
+3.76080322265625
+3.8180062770843506
+3.7311933040618896
+3.779590368270874
+3.78173565864563
+3.7610907554626465
+3.769757032394409
+3.87969970703125
+3.7186782360076904
+3.612142324447632
+3.8101658821105957
+3.8877170085906982
+3.6198155879974365
+3.672532796859741
+3.7204692363739014
+3.6781656742095947
+3.899092674255371
+3.741936206817627
+3.7013967037200928
+3.7832939624786377
+3.5441806316375732
+3.65679931640625
+3.5756888389587402
+3.8656439781188965
+3.6347403526306152
+3.7457494735717773
+3.626356840133667
+3.8007845878601074
+3.5931549072265625
+3.6880643367767334
+3.5838663578033447
+3.7211852073669434
+3.669121265411377
+3.599435567855835
+3.683180093765259
+3.654705762863159
+3.660066843032837
+3.83137845993042
+3.6408774852752686
+3.6539316177368164
+3.7724196910858154
+3.6655983924865723
+3.5886716842651367
+3.747205972671509
+3.670802116394043
+3.79365873336792
+3.624998092651367
+3.7426247596740723
+3.6826796531677246
+3.553138256072998
+3.5792078971862793
+3.653324842453003
+3.539743423461914
+3.5299036502838135
+3.619429111480713
+3.56876277923584
+3.7524149417877197
+3.6894114017486572
+3.7426161766052246
+3.639974594116211
+3.6213724613189697
+3.6622259616851807
+3.61287522315979
+3.5658280849456787
+3.634758234024048
+3.6273152828216553
+3.683867931365967
+3.5852935314178467
+3.6166107654571533
+3.6203949451446533
+3.58408522605896
+3.613933801651001
+3.5058202743530273
+3.6876893043518066
+3.661597967147827
+3.7629058361053467
+3.5459201335906982
+2.9079442024230957
+3.0034196376800537
+2.9654791355133057
+2.9477319717407227
+3.041957378387451
+3.0422286987304688
+2.99684476852417
+3.0433084964752197
+2.9792368412017822
+2.9402596950531006
+2.961219549179077
+3.0707130432128906
+2.93056058883667
+2.8714842796325684
+2.662672758102417
+2.6917426586151123
+2.6363630294799805
+2.57125186920166
+2.538853168487549
+2.331681728363037
+2.35374116897583
+2.35479474067688
+2.276630401611328
+2.277402877807617
+2.1201417446136475
+2.3105883598327637
+2.112720251083374
+2.1645493507385254
+2.1424291133880615
+2.2000393867492676
+2.145439386367798
+2.0903658866882324
+2.128835916519165
+2.0228984355926514
+2.106492757797241
+2.084789276123047
+2.10463809967041
+2.0498220920562744
+2.096932888031006
+2.1371397972106934
+2.03055477142334
+2.038534641265869
+1.9915175437927246
+2.068089246749878
+2.0567121505737305
+2.0790059566497803
+2.08361554145813
+2.0067646503448486
+2.0694165229797363
+2.0273537635803223
+1.989962100982666
+2.0454628467559814
+2.0633392333984375
+2.067979335784912
+2.0041346549987793
+2.1854851245880127
+2.006174325942993
+2.0398459434509277
+2.091236114501953
+2.1192500591278076
+2.051722288131714
+2.055873394012451
+1.9619364738464355
+2.1192078590393066
+1.9846446514129639
+2.015315532684326
+2.074143409729004
+1.9325517416000366
+1.9722466468811035
+2.0375990867614746
+1.987647294998169
+2.0012331008911133
+2.0004727840423584
+1.9973602294921875
+2.02238130569458
+1.969870686531067
+1.9978464841842651
+1.9662824869155884
+2.0882601737976074
+1.9719781875610352
+1.9694989919662476
+2.002889394760132
+1.865598201751709
+1.989169716835022
+2.038857936859131
+1.994170069694519
+1.9058306217193604
+2.0042896270751953
+1.9751050472259521
+2.0181987285614014
+1.9956865310668945
+1.9323830604553223
+1.9880311489105225
+1.989777684211731
+1.9313374757766724
+1.9591706991195679
+1.9566662311553955
+1.9992681741714478
+1.9191937446594238
+1.9933924674987793
+1.9413161277770996
+1.949422836303711
+1.9303622245788574
+1.9500443935394287
+1.955075740814209
+2.107435941696167
+2.021592378616333
+1.928043007850647
+1.9976788759231567
+2.0320987701416016
+1.884142518043518
+1.9484940767288208
+1.953294038772583
+1.888468861579895
+1.930499792098999
+2.0227088928222656
+1.9999141693115234
+1.9755330085754395
+1.9598772525787354
+2.0706286430358887
+1.8723140954971313
+1.934695839881897
+1.884506344795227
+1.9885327816009521
+1.9458297491073608
+1.997091293334961
+1.9313141107559204
+1.8707650899887085
+1.9336262941360474
+1.925633430480957
+1.9527860879898071
+1.8880009651184082
+1.9589323997497559
+1.975003957748413
+1.9444422721862793
+1.886081337928772
+1.9787369966506958
+1.896175503730774
+1.9108917713165283
+1.972747564315796
+1.9631576538085938
+1.9538962841033936
+1.9372878074645996
+1.995802879333496
+1.9635140895843506
+1.9019941091537476
+1.9415204524993896
+1.9721659421920776
+1.9702727794647217
+2.036635398864746
+1.9688458442687988
+1.8973469734191895
+1.8883172273635864
+1.8672664165496826
+1.9471005201339722
+1.8309053182601929
+1.9016517400741577
+1.9557349681854248
+1.885711669921875
+1.947548508644104
+1.8872748613357544
+1.9449542760849
+1.9283043146133423
+1.8567321300506592
+1.8964788913726807
+1.9263403415679932
+1.853080153465271
+1.8748867511749268
+1.8327385187149048
+1.9594804048538208
+1.8715438842773438
+1.8918397426605225
+1.9212276935577393
+1.967885136604309
+1.8483500480651855
+1.9273881912231445
+1.8560059070587158
+1.8266125917434692
+1.970503330230713
+1.8907506465911865
+1.8591707944869995
+1.8625253438949585
+1.8551290035247803
+1.7940940856933594
+1.9072974920272827
+1.945661187171936
+1.8916490077972412
+1.7783503532409668
+1.8402941226959229
+1.8858155012130737
+1.8180665969848633
+1.8234128952026367
+1.8878474235534668
+1.861158013343811
+1.8520236015319824
+1.8920029401779175
+1.9154678583145142
+1.9270930290222168
+1.8439855575561523
+1.8138480186462402
+1.8667546510696411
+1.8301522731781006
+1.90689218044281
+1.8270128965377808
+1.821382999420166
+1.8606855869293213
+1.9319934844970703
+1.8648308515548706
+1.8536232709884644
+1.8240089416503906
+1.7877073287963867
+1.7770116329193115
+1.8823788166046143
+1.755501627922058
+1.8515743017196655
+1.7564795017242432
+1.8027173280715942
+1.8555305004119873
+1.8605824708938599
+1.8390543460845947
+1.8253673315048218
+1.9158018827438354
+1.7766335010528564
+1.8168152570724487
+1.8548955917358398
+1.8090932369232178
+1.824660062789917
+1.7640787363052368
+1.8173701763153076
+1.748057246208191
+1.8108996152877808
+1.8224507570266724
+1.764672875404358
+1.781731128692627
+1.872697353363037
+1.8199412822723389
+1.7213432788848877
+1.7734684944152832
+1.7912214994430542
+1.8485442399978638
+1.7605412006378174
+1.8374459743499756
+1.8482062816619873
+1.7218122482299805
+1.7857825756072998
+1.754209280014038
+1.8453826904296875
+1.746907353401184
+1.8288291692733765
+1.682831883430481
+1.7840442657470703
+1.7482035160064697
+1.8064898252487183
+1.7154150009155273
+1.8161698579788208
+1.7299004793167114
+1.8227686882019043
+1.802507996559143
+1.7399041652679443
+1.8248786926269531
+1.8304619789123535
+1.7055844068527222
+1.6399544477462769
+1.8252136707305908
+1.7071431875228882
+1.740180253982544
+1.748927354812622
+1.760314702987671
+1.8303213119506836
+1.655680537223816
+1.8154141902923584
+1.7408980131149292
+1.6780060529708862
+1.730977177619934
+1.7486885786056519
+1.710099697113037
+1.6511865854263306
+1.7613773345947266
+1.714435338973999
+1.78397798538208
+1.7442963123321533
+1.7707366943359375
+1.7905381917953491
+1.7311168909072876
+1.701582908630371
+1.710654616355896
+1.6992541551589966
+1.6945875883102417
+1.678351879119873
+1.713028073310852
+1.7361756563186646
+1.6934653520584106
+1.7352070808410645
+1.6413103342056274
+1.679311752319336
+1.6616263389587402
+1.7346222400665283
+1.718848705291748
+1.7952485084533691
+1.7248129844665527
+1.715439796447754
+2.94777774810791
+3.057048797607422
+2.99980092048645
+2.983611583709717
+3.0903217792510986
+3.0873546600341797
+3.044696807861328
+3.0895845890045166
+3.025456190109253
+2.993281364440918
+3.0033020973205566
+3.1214470863342285
+2.968386650085449
+2.962559223175049
+2.7446300983428955
+2.782492160797119
+2.648167371749878
+2.6316275596618652
+2.6009066104888916
+2.393986701965332
+2.374028205871582
+2.368030071258545
+2.3076531887054443
+2.3068485260009766
+2.146714925765991
+2.3199479579925537
+2.1325671672821045
+2.1753275394439697
+2.163421869277954
+2.20442795753479
+2.1385691165924072
+2.076390027999878
+2.1203837394714355
+2.005722761154175
+2.097088098526001
+2.0675880908966064
+2.0844566822052
+2.027827501296997
+2.0955047607421875
+2.1057815551757812
+2.0226619243621826
+2.0193591117858887
+1.9816336631774902
+2.054391384124756
+2.0303115844726562
+2.058626890182495
+2.060296058654785
+1.9816921949386597
+2.0313825607299805
+1.9933664798736572
+1.9656989574432373
+2.0208380222320557
+2.0412485599517822
+2.0415732860565186
+1.9502348899841309
+2.142036199569702
+1.9742519855499268
+2.010556936264038
+2.0764315128326416
+2.094390869140625
+1.963616967201233
+1.9806478023529053
+1.894839882850647
+2.0225045680999756
+1.895288348197937
+1.9418740272521973
+1.9908424615859985
+1.8536269664764404
+1.8748526573181152
+1.9410372972488403
+1.902188777923584
+1.9205918312072754
+1.9113439321517944
+1.9091968536376953
+1.9547176361083984
+1.871896505355835
+1.9138091802597046
+1.8901523351669312
+2.0000686645507812
+1.891929268836975
+1.888437032699585
+1.919272780418396
+1.7909711599349976
+1.893754482269287
+1.9408173561096191
+1.8938207626342773
+1.8292986154556274
+1.9177837371826172
+1.8844050168991089
+1.9363924264907837
+1.8669205904006958
+1.813353180885315
+1.824292540550232
+1.8192319869995117
+1.7940839529037476
+1.8130605220794678
+1.8220330476760864
+1.8421543836593628
+1.7975363731384277
+1.8579776287078857
+1.8047369718551636
+1.809404969215393
+1.7632862329483032
+1.8022047281265259
+1.819013237953186
+1.9572569131851196
+1.8729878664016724
+1.8124974966049194
+1.8410258293151855
+1.8930387496948242
+1.7676727771759033
+1.8061457872390747
+1.801156759262085
+1.7796598672866821
+1.7826626300811768
+1.8625993728637695
+1.8376898765563965
+1.8049988746643066
+1.790101408958435
+1.9187272787094116
+1.6917363405227661
+1.7496016025543213
+1.693895697593689
+1.7920410633087158
+1.7590672969818115
+1.82138192653656
+1.7501559257507324
+1.7069745063781738
+1.7497484683990479
+1.732738733291626
+1.7482030391693115
+1.715241551399231
+1.7438690662384033
+1.7543387413024902
+1.757634162902832
+1.7152429819107056
+1.782301902770996
+1.6746348142623901
+1.7424207925796509
+1.7798686027526855
+1.7855771780014038
+1.7722423076629639
+1.760966181755066
+1.797732949256897
+1.8039888143539429
+1.729867935180664
+1.766142725944519
+1.7855349779129028
+1.7485567331314087
+1.842577576637268
+1.7389261722564697
+1.684865117073059
+1.6549125909805298
+1.6388061046600342
+1.7218480110168457
+1.6026915311813354
+1.6803215742111206
+1.7065571546554565
+1.6593635082244873
+1.738619089126587
+1.6482702493667603
+1.6927263736724854
+1.6987167596817017
+1.649143099784851
+1.6698200702667236
+1.689013123512268
+1.651328444480896
+1.6574358940124512
+1.6224441528320312
+1.7242404222488403
+1.6441643238067627
+1.6800297498703003
+1.6870143413543701
+1.745776653289795
+1.630966067314148
+1.6946823596954346
+1.6329814195632935
+1.5980403423309326
+1.7389963865280151
+1.6554515361785889
+1.6276189088821411
+1.619497299194336
+1.6055601835250854
+1.5615687370300293
+1.6541173458099365
+1.6853957176208496
+1.629289150238037
+1.542785882949829
+1.5805630683898926
+1.6375359296798706
+1.5682189464569092
+1.5728930234909058
+1.6230839490890503
+1.6133612394332886
+1.5917118787765503
+1.6281185150146484
+1.6683074235916138
+1.6710008382797241
+1.5891776084899902
+1.564453363418579
+1.615898609161377
+1.5905280113220215
+1.6584666967391968
+1.5606764554977417
+1.556815266609192
+1.5950161218643188
+1.659564733505249
+1.606337547302246
+1.6280512809753418
+1.5600929260253906
+1.515519618988037
+1.5244861841201782
+1.6045135259628296
+1.5175670385360718
+1.614699363708496
+1.5108603239059448
+1.5529142618179321
+1.6052461862564087
+1.5956476926803589
+1.5688023567199707
+1.5361723899841309
+1.6494202613830566
+1.5223137140274048
+1.5594698190689087
+1.561578392982483
+1.5735257863998413
+1.5453544855117798
+1.5078914165496826
+1.5431535243988037
+1.4739084243774414
+1.5374406576156616
+1.5204787254333496
+1.516552209854126
+1.534645915031433
+1.5972867012023926
+1.5487403869628906
+1.4731576442718506
+1.5273483991622925
+1.506940484046936
+1.6137076616287231
+1.5293627977371216
+1.5254130363464355
+1.5811208486557007
+1.4773528575897217
+1.4936977624893188
+1.4997248649597168
+1.587287187576294
+1.4962158203125
+1.547508716583252
+1.4170442819595337
+1.5155928134918213
+1.4743826389312744
+1.5212448835372925
+1.4580622911453247
+1.5343769788742065
+1.4856642484664917
+1.5421324968338013
+1.512045979499817
+1.4769307374954224
+1.5400749444961548
+1.5700297355651855
+1.4424176216125488
+1.4216766357421875
+1.5443625450134277
+1.4741342067718506
+1.4814358949661255
+1.4626134634017944
+1.477542519569397
+1.5497139692306519
+1.424161434173584
+1.5505249500274658
+1.4466012716293335
+1.4186062812805176
+1.4846206903457642
+1.4879379272460938
+1.449009895324707
+1.415916919708252
+1.4596678018569946
+1.4479894638061523
+1.5301874876022339
+1.447106957435608
+1.507790207862854
+1.5194313526153564
+1.4792301654815674
+1.427769422531128
+1.4339449405670166
+1.436673641204834
+1.4310139417648315
+1.4380093812942505
+1.448843240737915
+1.4639472961425781
+1.4414175748825073
+1.4639848470687866
+1.3895150423049927
+1.4243472814559937
+1.4193915128707886
+1.4646108150482178
+1.4722944498062134
+1.5221242904663086
+1.479637622833252
+1.4791741371154785
+6.332460880279541
+6.441055774688721
+6.460118293762207
+6.300451278686523
+6.417716979980469
+6.52382755279541
+6.216962814331055
+6.446101188659668
+6.451137542724609
+6.339200019836426
+6.4876885414123535
+6.50436544418335
+6.274557590484619
+6.306380748748779
+6.311408042907715
+6.353065013885498
+5.689177989959717
+4.913502216339111
+5.023997783660889
+4.962299346923828
+4.8640851974487305
+5.028540134429932
+5.040455341339111
+4.895787239074707
+4.988666534423828
+5.027181148529053
+4.90269660949707
+5.010209560394287
+5.0775933265686035
+4.855968952178955
+4.958906173706055
+4.873053550720215
+4.6107282638549805
+3.9703755378723145
+3.523357629776001
+6.032020568847656
+6.081979751586914
+6.043078899383545
+5.955252647399902
+6.051685333251953
+6.143858432769775
+5.929127216339111
+6.052648544311523
+6.143414497375488
+6.051887512207031
+6.108333587646484
+6.113947868347168
+5.969338417053223
+5.995555877685547
+6.096251010894775
+5.990032196044922
+5.289479732513428
+4.571035385131836
+4.015914440155029
+3.456617593765259
+3.1386125087738037
+3.054367780685425
+2.7957756519317627
+2.7078194618225098
+2.5204029083251953
+2.6776928901672363
+2.422957181930542
+2.5412051677703857
+2.471277952194214
+2.409391403198242
+2.3645451068878174
+2.312150001525879
+2.3475637435913086
+2.1566498279571533
+2.265716075897217
+2.170179605484009
+2.254579782485962
+2.1722230911254883
+2.2524118423461914
+2.3233816623687744
+2.1464922428131104
+2.1368091106414795
+2.079008102416992
+2.207528829574585
+2.1587727069854736
+2.1992547512054443
+2.2163984775543213
+2.1024014949798584
+2.2034122943878174
+2.147725820541382
+2.1057465076446533
+2.101545810699463
+2.1696367263793945
+2.158010721206665
+2.0873544216156006
+2.256185293197632
+2.109313488006592
+2.0484254360198975
+2.146442413330078
+2.1543729305267334
+2.0926754474639893
+2.1696038246154785
+2.022408962249756
+2.1691677570343018
+2.0508360862731934
+2.09733510017395
+2.11446213722229
+2.0310680866241455
+2.0137596130371094
+2.0817677974700928
+2.0169944763183594
+2.057396411895752
+2.06797456741333
+2.0233664512634277
+2.0454673767089844
+2.019904613494873
+2.007471799850464
+2.0340256690979004
+2.142284631729126
+2.0137269496917725
+2.0434508323669434
+2.0424258708953857
+1.9435055255889893
+2.015298843383789
+2.1023848056793213
+2.010516881942749
+1.9355305433273315
+2.02016282081604
+2.0140509605407715
+2.0410046577453613
+1.9764535427093506
+1.983081579208374
+1.9832221269607544
+1.9647842645645142
+1.9425292015075684
+1.9569425582885742
+1.9931753873825073
+2.009732246398926
+1.9284189939498901
+1.9999043941497803
+1.9689455032348633
+1.956250786781311
+1.9312444925308228
+1.9969483613967896
+1.9637672901153564
+2.1311800479888916
+2.0342788696289062
+1.9773632287979126
+1.9617592096328735
+2.0010457038879395
+1.8958282470703125
+1.9936548471450806
+1.9455978870391846
+1.9274177551269531
+1.9256877899169922
+2.0382978916168213
+2.0126144886016846
+1.9990113973617554
+1.97330641746521
+2.0448715686798096
+1.8779160976409912
+1.9398006200790405
+1.9283970594406128
+1.9467800855636597
+1.909426212310791
+1.9276179075241089
+1.8970897197723389
+1.8733229637145996
+1.922316312789917
+1.9080971479415894
+1.901792049407959
+1.8852415084838867
+1.9285682439804077
+1.9526023864746094
+1.900084137916565
+1.9115796089172363
+1.944593906402588
+1.913684606552124
+1.9003350734710693
+1.9356786012649536
+1.9678966999053955
+1.9101638793945312
+1.933634877204895
+1.9729421138763428
+1.9389301538467407
+1.8626805543899536
+1.8973373174667358
+1.9648741483688354
+1.948023796081543
+2.010775089263916
+1.9312918186187744
+1.856099009513855
+1.830273985862732
+1.8429673910140991
+1.90855872631073
+1.8072271347045898
+1.8526936769485474
+1.864729881286621
+1.8518885374069214
+1.9014887809753418
+1.8658450841903687
+1.934187889099121
+1.8670955896377563
+1.8112496137619019
+1.864071249961853
+1.8760859966278076
+1.837039828300476
+1.830275058746338
+1.8479163646697998
+1.948532223701477
+1.8569304943084717
+1.841320514678955
+1.8557097911834717
+1.8920537233352661
+1.801164150238037
+1.8491003513336182
+1.8222503662109375
+1.8008123636245728
+1.9147692918777466
+1.8297480344772339
+1.7914520502090454
+1.8209482431411743
+1.818281888961792
+1.7338329553604126
+1.8433347940444946
+1.925897240638733
+1.8464319705963135
+1.7567534446716309
+1.7584750652313232
+1.800796389579773
+1.7321293354034424
+1.8378571271896362
+1.8428229093551636
+1.8269641399383545
+1.8093628883361816
+1.7923684120178223
+1.8484511375427246
+1.8406133651733398
+1.7896815538406372
+1.7601295709609985
+1.7700819969177246
+1.7970905303955078
+1.8504291772842407
+1.799271583557129
+1.7521671056747437
+1.8385450839996338
+1.8683738708496094
+1.806691288948059
+1.7646639347076416
+1.771262526512146
+1.7452365159988403
+1.7339955568313599
+1.8025164604187012
+1.7299110889434814
+1.7865691184997559
+1.6928272247314453
+1.7262623310089111
+1.7730019092559814
+1.7804149389266968
+1.7935593128204346
+1.732612133026123
+1.8373154401779175
+1.722089409828186
+1.7939924001693726
+1.792822241783142
+1.7477816343307495
+1.7353216409683228
+1.7105313539505005
+1.7835456132888794
+1.6990290880203247
+1.750956654548645
+1.7271689176559448
+1.6952054500579834
+1.7526518106460571
+1.8494536876678467
+1.721271276473999
+1.6840609312057495
+1.7337955236434937
+1.751426100730896
+1.7978204488754272
+1.714566946029663
+1.7819485664367676
+1.7779245376586914
+1.6497846841812134
+1.7474098205566406
+1.6442474126815796
+1.7562874555587769
+1.6932591199874878
+1.7596025466918945
+1.6350489854812622
+1.7108633518218994
+1.683119535446167
+1.7289631366729736
+1.6710578203201294
+1.7958416938781738
+1.6499371528625488
+1.760046124458313
+1.7035183906555176
+1.691626787185669
+1.7571691274642944
+1.761226773262024
+1.6529364585876465
+1.6731500625610352
+1.783064365386963
+1.6003119945526123
+1.687507152557373
+1.6608573198318481
+1.6793211698532104
+1.7802237272262573
+1.6467851400375366
+1.7318974733352661
+1.665266513824463
+1.6222620010375977
+1.7213351726531982
+1.7142012119293213
+1.7200088500976562
+1.6295521259307861
+1.7502710819244385
+1.6784014701843262
+1.754310131072998
+1.6874786615371704
+1.704272747039795
+1.7023848295211792
+1.6430559158325195
+1.6560529470443726
+1.676672339439392
+1.6365376710891724
+1.636082649230957
+1.6490074396133423
+1.661969542503357
+1.716346025466919
+1.6343698501586914
+1.6867562532424927
+1.665352463722229
+1.6515439748764038
+1.6556713581085205
+1.7275187969207764
+1.6649101972579956
+1.7767912149429321
+1.6414592266082764
+7.79026985168457
+7.8347954750061035
+7.859055995941162
+7.840051651000977
+7.830996990203857
+8.032662391662598
+7.520456790924072
+7.928989887237549
+7.83653450012207
+7.81247091293335
+7.964552879333496
+7.846713066101074
+7.728227615356445
+7.732767105102539
+7.753565788269043
+7.6607441902160645
+7.790424823760986
+6.594749450683594
+5.7846550941467285
+4.7428460121154785
+3.829770565032959
+3.470062732696533
+3.2267022132873535
+3.117527723312378
+2.749573230743408
+2.892470598220825
+2.7252233028411865
+2.6834769248962402
+2.479606866836548
+2.5897767543792725
+2.4311861991882324
+2.4052867889404297
+2.4545390605926514
+2.2324116230010986
+2.4008941650390625
+2.2074368000030518
+2.3195977210998535
+2.247472047805786
+2.2772505283355713
+2.362787961959839
+2.1648316383361816
+2.1479105949401855
+2.1151123046875
+2.2423977851867676
+2.1839427947998047
+2.221928834915161
+2.2617461681365967
+2.1265392303466797
+2.2155659198760986
+2.208738327026367
+2.1220200061798096
+2.1568961143493652
+2.1913864612579346
+2.19159197807312
+2.1345913410186768
+2.269674301147461
+2.118978977203369
+2.0816450119018555
+2.135561466217041
+2.1679489612579346
+2.1024160385131836
+2.1637728214263916
+2.0101773738861084
+2.1853420734405518
+2.069949150085449
+2.099287509918213
+2.1521518230438232
+2.042130708694458
+2.015982151031494
+2.07989764213562
+2.0324535369873047
+2.071751117706299
+2.063351631164551
+2.049396276473999
+2.0714290142059326
+2.035633087158203
+2.0291824340820312
+2.0577845573425293
+2.16898775100708
+2.002556562423706
+2.067359447479248
+2.0501320362091064
+1.9468905925750732
+1.9998023509979248
+2.117443799972534
+2.049626350402832
+1.97310471534729
+2.0495388507843018
+2.018132209777832
+2.061676263809204
+1.9986034631729126
+1.9624823331832886
+1.9764412641525269
+1.9831383228302002
+1.946244716644287
+1.9510934352874756
+2.004838705062866
+2.0134124755859375
+1.9476090669631958
+2.029735803604126
+1.9833017587661743
+1.96465003490448
+1.9352346658706665
+1.9953813552856445
+1.9457288980484009
+2.1221208572387695
+2.0498898029327393
+1.9744246006011963
+1.9796932935714722
+2.012878179550171
+1.9109470844268799
+1.9978954792022705
+1.9415432214736938
+1.9396536350250244
+1.932901382446289
+2.051133155822754
+2.035641670227051
+1.9851535558700562
+1.9769328832626343
+2.0738365650177
+1.8951458930969238
+1.9406375885009766
+1.9184352159500122
+1.9461332559585571
+1.9085931777954102
+1.9188302755355835
+1.9024616479873657
+1.850089430809021
+1.9366302490234375
+1.9069960117340088
+1.902593731880188
+1.8871371746063232
+1.9269310235977173
+1.9676179885864258
+1.8972052335739136
+1.91115140914917
+1.9506056308746338
+1.9127848148345947
+1.9153679609298706
+1.942962884902954
+1.9548276662826538
+1.9241609573364258
+1.9617054462432861
+1.9902442693710327
+1.9542653560638428
+1.8613094091415405
+1.916428565979004
+1.972665786743164
+1.9339674711227417
+2.030548095703125
+1.9408499002456665
+1.8807557821273804
+1.8418973684310913
+1.846268892288208
+1.9386342763900757
+1.812049150466919
+1.8788894414901733
+1.8618614673614502
+1.8431257009506226
+1.9160794019699097
+1.8572028875350952
+1.9630688428878784
+1.8795738220214844
+1.8206881284713745
+1.8706951141357422
+1.869990587234497
+1.8421087265014648
+1.8367575407028198
+1.861440658569336
+1.9724394083023071
+1.888709545135498
+1.8677825927734375
+1.863650918006897
+1.893187165260315
+1.7876354455947876
+1.9074923992156982
+1.8130264282226562
+1.8171813488006592
+1.908961296081543
+1.85062837600708
+1.7957360744476318
+1.8123846054077148
+1.817807912826538
+1.7276972532272339
+1.8361234664916992
+1.9327781200408936
+1.870551347732544
+1.7663748264312744
+1.7641395330429077
+1.8129154443740845
+1.742408037185669
+1.839734435081482
+1.8363807201385498
+1.828642725944519
+1.820224642753601
+1.8015623092651367
+1.8681738376617432
+1.848576545715332
+1.781303882598877
+1.7671295404434204
+1.778810739517212
+1.798032283782959
+1.8595117330551147
+1.7998005151748657
+1.7654268741607666
+1.820473313331604
+1.8570852279663086
+1.8195949792861938
+1.7763495445251465
+1.7753596305847168
+1.7487938404083252
+1.7363439798355103
+1.8125733137130737
+1.7339826822280884
+1.7874889373779297
+1.6912050247192383
+1.7265664339065552
+1.7513362169265747
+1.770891785621643
+1.77996027469635
+1.7490538358688354
+1.8480032682418823
+1.7503920793533325
+1.7949029207229614
+1.8191360235214233
+1.7646223306655884
+1.7379111051559448
+1.7161890268325806
+1.798852801322937
+1.6891342401504517
+1.7612550258636475
+1.7226423025131226
+1.7187665700912476
+1.734322428703308
+1.8410040140151978
+1.732008695602417
+1.6754186153411865
+1.7234489917755127
+1.773457407951355
+1.8182358741760254
+1.7103303670883179
+1.7752989530563354
+1.7842580080032349
+1.6463980674743652
+1.7326570749282837
+1.648405909538269
+1.7586686611175537
+1.6998770236968994
+1.7536271810531616
+1.6443809270858765
+1.7175357341766357
+1.6822696924209595
+1.7114660739898682
+1.6868298053741455
+1.8062996864318848
+1.6533994674682617
+1.775761604309082
+1.7132011651992798
+1.7035489082336426
+1.770699143409729
+1.7727652788162231
+1.6393691301345825
+1.6774815320968628
+1.7780336141586304
+1.6093825101852417
+1.6975948810577393
+1.6709874868392944
+1.6719388961791992
+1.7720216512680054
+1.644629955291748
+1.7419112920761108
+1.6342906951904297
+1.6323126554489136
+1.7191081047058105
+1.710328459739685
+1.7274502515792847
+1.6160306930541992
+1.7408030033111572
+1.6770528554916382
+1.7490129470825195
+1.680281162261963
+1.7199862003326416
+1.7081390619277954
+1.6694759130477905
+1.6585856676101685
+1.6668978929519653
+1.640466332435608
+1.62545645236969
+1.6443085670471191
+1.6650054454803467
+1.7160615921020508
+1.6275956630706787
+1.6758214235305786
+1.6620278358459473
+1.6477090120315552
+1.6469758749008179
+1.7100940942764282
+1.642823338508606
+1.7778347730636597
+1.639382243156433
+1.688598871231079
+1.5899579524993896
+1.680617094039917
+1.638139009475708
+1.63789963722229
+1.6977312564849854
+1.7118070125579834
+1.6628481149673462
+1.7048516273498535
+1.6377345323562622
+1.6806539297103882
+1.689082384109497
+1.6938987970352173
+1.6456459760665894
+1.6439357995986938
+1.5761053562164307
+1.6110576391220093
+1.597698450088501
+1.6434980630874634
+1.682677984237671
+1.6400330066680908
+1.6482036113739014
+1.6789352893829346
+6.657354354858398
+6.673191070556641
+6.666089057922363
+6.604012966156006
+6.650150775909424
+6.754729747772217
+6.442290306091309
+6.640381336212158
+6.72407341003418
+6.666736125946045
+6.741815567016602
+6.675922393798828
+6.534791469573975
+6.579823970794678
+6.711718559265137
+6.550954818725586
+6.383570194244385
+6.061002731323242
+5.542403697967529
+4.943052291870117
+4.4415106773376465
+4.254995822906494
+3.8568735122680664
+3.7584986686706543
+3.317456007003784
+3.488947868347168
+3.012423515319824
+3.1330742835998535
+2.957425355911255
+3.0177392959594727
+2.827903985977173
+2.7283170223236084
+2.8426265716552734
+2.5841050148010254
+2.650721549987793
+2.509129762649536
+2.6830620765686035
+2.4769480228424072
+2.468775987625122
+2.5855295658111572
+2.3723504543304443
+2.370258092880249
+2.2484371662139893
+2.41766095161438
+2.3096420764923096
+2.299611806869507
+2.349867343902588
+2.23681902885437
+2.314008951187134
+2.2575583457946777
+2.1958627700805664
+2.2157225608825684
+2.283862829208374
+2.2578675746917725
+2.1905887126922607
+2.35329270362854
+2.1936721801757812
+2.1573965549468994
+2.217693567276001
+2.2546277046203613
+2.180173873901367
+2.2559752464294434
+2.119490623474121
+2.2689223289489746
+2.124799966812134
+2.1696481704711914
+2.178030014038086
+2.128556728363037
+2.0611679553985596
+2.1270194053649902
+2.061232089996338
+2.117488145828247
+2.1156094074249268
+2.084986925125122
+2.1030571460723877
+2.0531435012817383
+2.073801040649414
+2.1076691150665283
+2.1958532333374023
+2.0427744388580322
+2.125387668609619
+2.0970914363861084
+1.9971096515655518
+2.079615831375122
+2.1501481533050537
+2.051023244857788
+1.963014006614685
+2.065988302230835
+2.0522983074188232
+2.0832297801971436
+2.053656578063965
+2.0346477031707764
+2.040426254272461
+2.039440870285034
+1.9977201223373413
+2.013732433319092
+2.0562543869018555
+2.083427906036377
+1.9803478717803955
+2.0869524478912354
+2.0340354442596436
+2.0306239128112793
+1.9995847940444946
+2.0433316230773926
+2.030552625656128
+2.174180030822754
+2.1263201236724854
+2.0240988731384277
+2.0247085094451904
+2.0761282444000244
+1.9660247564315796
+2.0356075763702393
+1.9742231369018555
+1.9776005744934082
+1.9850331544876099
+2.1036720275878906
+2.0747597217559814
+2.059425115585327
+2.054513931274414
+2.1239511966705322
+1.948525309562683
+2.0078160762786865
+2.027670383453369
+2.0318353176116943
+1.9898539781570435
+2.0181472301483154
+1.975412368774414
+1.9653968811035156
+2.0192818641662598
+2.016646146774292
+1.9944756031036377
+1.9823195934295654
+2.0279033184051514
+2.0875144004821777
+2.0085713863372803
+1.997647762298584
+2.044478416442871
+2.0014467239379883
+2.0009655952453613
+2.0382158756256104
+2.0561232566833496
+2.0010108947753906
+2.04815411567688
+2.080995559692383
+2.0203921794891357
+1.954056739807129
+2.007402181625366
+2.048445701599121
+2.021716833114624
+2.1295056343078613
+2.0447635650634766
+1.971712589263916
+1.9459913969039917
+1.9646508693695068
+2.0585367679595947
+1.9256246089935303
+1.9879344701766968
+1.9959222078323364
+1.9825023412704468
+2.0208210945129395
+1.9945714473724365
+2.108243227005005
+2.019033193588257
+1.960353136062622
+1.9996403455734253
+2.011306047439575
+1.9626110792160034
+1.971211314201355
+1.9865732192993164
+2.1076042652130127
+1.9837158918380737
+1.9698028564453125
+1.9927338361740112
+2.0126993656158447
+1.916795015335083
+2.0553436279296875
+1.941959023475647
+1.9428858757019043
+2.0379440784454346
+1.977539300918579
+1.94135582447052
+1.9841852188110352
+1.9631925821304321
+1.8788033723831177
+1.9991039037704468
+2.1137325763702393
+2.020111322402954
+1.9714956283569336
+1.9375853538513184
+1.9766430854797363
+1.9192801713943481
+1.9923900365829468
+2.015387773513794
+1.9817010164260864
+1.9857927560806274
+1.9665286540985107
+2.0122227668762207
+2.019023895263672
+1.9593281745910645
+1.9316247701644897
+1.9653276205062866
+1.9668866395950317
+2.012423276901245
+1.9899576902389526
+1.9256644248962402
+2.0062026977539062
+2.0257933139801025
+1.9948794841766357
+1.9295369386672974
+1.9601831436157227
+1.9297850131988525
+1.9187211990356445
+1.9704068899154663
+1.9284179210662842
+1.984261155128479
+1.9020400047302246
+1.9211301803588867
+1.9648475646972656
+1.9789202213287354
+1.993047833442688
+1.9483181238174438
+2.0483622550964355
+1.9372304677963257
+1.9903579950332642
+2.021803140640259
+1.9612129926681519
+1.9628591537475586
+1.928439974784851
+2.0132949352264404
+1.8998873233795166
+1.9815198183059692
+1.9512996673583984
+1.8990126848220825
+1.9759504795074463
+2.075125217437744
+1.9327329397201538
+1.890875220298767
+1.9283928871154785
+1.970439076423645
+1.9884241819381714
+1.9103018045425415
+2.001309394836426
+2.026995897293091
+1.8967782258987427
+1.9465731382369995
+1.8682507276535034
+2.0373520851135254
+1.9220960140228271
+1.9837583303451538
+1.9026542901992798
+1.9884488582611084
+1.9185266494750977
+1.9956318140029907
+1.9191789627075195
+2.040565252304077
+1.8901827335357666
+2.002593994140625
+1.9700263738632202
+1.9248467683792114
+1.9979496002197266
+2.006667375564575
+1.8981382846832275
+1.97944974899292
+2.026123285293579
+1.8714163303375244
+1.9364771842956543
+1.9039849042892456
+1.934417724609375
+2.019977569580078
+1.8802621364593506
+2.0009584426879883
+1.938520073890686
+1.8807308673858643
+1.964324951171875
+1.9709043502807617
+1.968914270401001
+1.875254511833191
+2.0170278549194336
+1.9501725435256958
+2.0123796463012695
+1.9419429302215576
+1.9728063344955444
+1.9980312585830688
+1.9200623035430908
+1.9255075454711914
+1.9274799823760986
+1.9109840393066406
+1.9041924476623535
+1.8931548595428467
+1.9363281726837158
+1.982028603553772
+1.892237901687622
+1.9577062129974365
+1.9332700967788696
+1.9027268886566162
+1.9078372716903687
+1.994713306427002
+1.924942135810852
+2.0620996952056885
+1.8931334018707275

@@ -44,6 +44,7 @@ class BiasGPT(nn.Module):
         self.batch_size = batch_size
         self.blocks = [BiasGPT.gpt.transformer.h[-2], BiasGPT.gpt.transformer.h[-1]]
         self.bias_mu = torch.nn.Parameter(torch.zeros(2, batch_size, 1, 3072))
+        # torch.nn.init.xavier_normal_(self.bias_mu)
         # self.bias_logvar = torch.nn.Parameter(torch.randn(2, batch_size, 1, 3072))
     
 
@@ -54,7 +55,7 @@ class BiasGPT(nn.Module):
 
 
     def get_bias(self, layer, do_sample = False):
-        bias = self.bias_mu[layer]
+        bias = self.bias_mu[0]
         if do_sample:
             # std = torch.exp(0.5 * self.bias_logvar[layer]) 
             eps = randn_like(self.bias_mu[layer])
@@ -75,10 +76,7 @@ class BiasGPT(nn.Module):
     def decoder(self, layer, hidden_states, mask):
         residual = hidden_states
         hidden_states = self.blocks[layer].ln_1(hidden_states)
-        attn_outputs = self.blocks[layer].attn(
-            hidden_states,
-            attention_mask = mask,
-        )
+        attn_outputs = self.blocks[layer].attn(hidden_states)
         attn_output = attn_outputs[0]
         hidden_states = attn_output + residual
         residual = hidden_states
