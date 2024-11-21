@@ -71,7 +71,6 @@ class TextVAE(nn.Module):
         hidden_states = self.h.ln_1(hidden_states)
         attn_output = self.h.attn(hidden_states)[0]
         hidden_states = attn_output + residual
-        residual = hidden_states
         hidden_states = self.h.ln_2(hidden_states)
         hidden_states = self.h.mlp.c_fc(hidden_states)
         return hidden_states
@@ -92,19 +91,19 @@ class TextVAE(nn.Module):
         return bias, kl_loss/len(input_ids)
     
 
-    def forward(self, gpt_ids, gpt_mask = None, do_sample = True):
+    def forward(self, gpt_ids, gpt_mask = None, do_sample = False):
         # prepare
         device = next(self.gpt.parameters()).device
-        gpt_ids, gpt_mask = gpt_ids.to(device) if gpt_ids is not None else None, gpt_mask.to(device) if gpt_mask is not None else None
+        gpt_ids, gpt_mask = gpt_ids.to(device), gpt_mask.to(device) if gpt_mask is not None else None
         # get bias
         bias, kl_loss = self.get_bias(gpt_ids, gpt_mask, do_sample)
         logits = self.gpt_forward(gpt_ids[:,:-1], gpt_mask[:,:-1] if gpt_mask is not None else None, bias)
         # loss
         loss = nn.functional.cross_entropy(logits.view(-1, 50257), gpt_ids[:,1:].contiguous().view(-1), 
                                            reduction = 'none')
-        loss = torch.mean(loss * gpt_mask[:,1:].contiguous().view(-1))
+        loss = torch.sum(loss * gpt_mask[:,1:].contiguous().view(-1))/gpt_mask[:,1:].sum()
         print((loss).item(), kl_loss.item())
-        return (loss + 0.1 * kl_loss, bias, logits)
+        return (loss + 0.0 * kl_loss, bias, logits)
 
 
 

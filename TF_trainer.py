@@ -8,12 +8,12 @@ import argparse, math
 
 # 环境设置
 # TPU
-resolver = tf.distribute.cluster_resolver.TPUClusterResolver(tpu='local')
-tf.config.experimental_connect_to_cluster(resolver)
-tf.tpu.experimental.initialize_tpu_system(resolver)
-strategy = tf.distribute.TPUStrategy(resolver)
+# resolver = tf.distribute.cluster_resolver.TPUClusterResolver(tpu='local')
+# tf.config.experimental_connect_to_cluster(resolver)
+# tf.tpu.experimental.initialize_tpu_system(resolver)
+# strategy = tf.distribute.TPUStrategy(resolver)
 # GPU
-# strategy = tf.distribute.MirroredStrategy()
+strategy = tf.distribute.MirroredStrategy()
 
 
 # 命令行参数
@@ -50,7 +50,7 @@ def mapping(x):
   return tokenizer(text, return_tensors="tf", padding = 'max_length',
            max_length = 128, truncation = True)
 dataset = wiki_text.map(mapping, batched = True, remove_columns = ['id','url','title','text'],
-             load_from_cache_file = True, cache_file_name = './cache/'+args.dataset)
+             load_from_cache_file = True) #, cache_file_name = './cache/'+args.dataset)
 # dataset = load_dataset("arrow", data_files = './cache/'+args.dataset, split = 'train')
 print("-" * 50)
 print(dataset)
@@ -123,16 +123,16 @@ model.fit(  # train
 
 
 # 进行测试
-def test(data_item):
-  logits = model(data_item[0], training = False)[1]
-  predicted_ids = tf.argmax(logits, axis=-1)
-  pred_text = tokenizer.batch_decode(predicted_ids)
-  targ_text = tokenizer.batch_decode(data_item[0]['input_ids'], skip_special_tokens=True)
-  for i in range(args.test_num):
-    print("pred: ", pred_text[i].replace('\n','\\n'))
-    print("targ: ", targ_text[i].replace('\n','\\n'))
-    print("-" * 50)
-print("\nTest on Training Data: ")
-test(next(trainData.take(1).as_numpy_iterator()))
-print("\nTest on Evaluation Data: ")
-test(next(evalData.take(1).as_numpy_iterator()))
+# def test(data_item):
+#   logits = model(data_item[0], training = False)[2]
+#   predicted_ids = tf.argmax(logits, axis=-1)
+#   pred_text = tokenizer.batch_decode(predicted_ids)
+#   targ_text = tokenizer.batch_decode(data_item[0]['input_ids'], skip_special_tokens=True)
+#   for i in range(args.test_num):
+#     print("pred: ", pred_text[i].replace('\n','\\n'))
+#     print("targ: ", targ_text[i].replace('\n','\\n'))
+#     print("-" * 50)
+# print("\nTest on Training Data: ")
+# test(next(trainData.take(1).as_numpy_iterator()))
+# print("\nTest on Evaluation Data: ")
+# test(next(evalData.take(1).as_numpy_iterator()))
