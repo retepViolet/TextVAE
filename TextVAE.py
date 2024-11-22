@@ -78,6 +78,10 @@ class TextVAE(nn.Module):
 
     def get_bias(self, input_ids, mask, do_sample = True):
         # gpt
+        # hidden_states = self.get_hidden_states(input_ids, mask)
+        # hidden_states = self.get_masked_average(hidden_states, mask)
+        # print(hidden_states)
+        # return hidden_states, 0
         hidden_states = self.get_hidden_states(input_ids, mask)
         hidden_states = self.amplifier(hidden_states)
         hidden_states = self.get_masked_average(hidden_states, mask)
@@ -91,27 +95,32 @@ class TextVAE(nn.Module):
         return bias, kl_loss/len(input_ids)
     
 
-    def forward(self, gpt_ids, gpt_mask = None, do_sample = False):
+    def forward(self, input_ids, attention_mask = None, do_sample = False):
         # prepare
         device = next(self.gpt.parameters()).device
-        gpt_ids, gpt_mask = gpt_ids.to(device), gpt_mask.to(device) if gpt_mask is not None else None
+        input_ids, attention_mask = input_ids.to(device), attention_mask.to(device) if attention_mask is not None else None
         # get bias
-        bias, kl_loss = self.get_bias(gpt_ids, gpt_mask, do_sample)
-        logits = self.gpt_forward(gpt_ids[:,:-1], gpt_mask[:,:-1] if gpt_mask is not None else None, bias)
+        bias, kl_loss = self.get_bias(input_ids, attention_mask, do_sample)
+        logits = self.gpt_forward(input_ids[:,:-1], attention_mask[:,:-1] if attention_mask is not None else None, bias)
         # loss
-        loss = nn.functional.cross_entropy(logits.view(-1, 50257), gpt_ids[:,1:].contiguous().view(-1), 
+        loss = nn.functional.cross_entropy(logits.view(-1, 50257), input_ids[:,1:].contiguous().view(-1), 
                                            reduction = 'none')
-        loss = torch.sum(loss * gpt_mask[:,1:].contiguous().view(-1))/gpt_mask[:,1:].sum()
-        print((loss).item(), kl_loss.item())
+        loss = torch.sum(loss * attention_mask[:,1:].contiguous().view(-1))/attention_mask[:,1:].sum()
+        print(loss.item())
         return (loss + 0.0 * kl_loss, bias, logits)
 
 
 
 
 if __name__ == '__main__':
-    gpt = GPT2LMHeadModel.from_pretrained('distilgpt2')
+    # gpt = GPT2LMHeadModel.from_pretrained('distilgpt2')
+    # input_ids = tensor([[1,2,3]])
+    # mask = tensor([[1,1,0]])
+    # logits1 = gpt(input_ids, attention_mask = mask)[0] * mask.unsqueeze(-1)
+    # logits2 = TextVAE.gpt_forward(input_ids, mask, torch.zeros(1, 768*4)) * mask.unsqueeze(-1)
+    # print((logits1 - logits2).abs().sum().item())
+
     input_ids = tensor([[1,2,3]])
     mask = tensor([[1,1,0]])
-    logits1 = gpt(input_ids, attention_mask = mask)[0] * mask.unsqueeze(-1)
-    logits2 = TextVAE.gpt_forward(input_ids, mask, torch.zeros(1, 768*4)) * mask.unsqueeze(-1)
-    print((logits1 - logits2).abs().sum().item())
+    model = TextVAE()
+    model(input_ids, mask)

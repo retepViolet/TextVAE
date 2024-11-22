@@ -1,5 +1,5 @@
 import tensorflow as tf
-from transformers import TFGPT2Model, TFGPT2LMHeadModel, GPT2Config
+from transformers import TFGPT2Model, GPT2Config
 
 
 class TextVAE(tf.keras.Model):
@@ -59,7 +59,6 @@ class TextVAE(tf.keras.Model):
             return tf.reduce_mean(vectors, axis=1)
         sum_vectors = tf.reduce_sum(vectors * tf.expand_dims(mask, axis=-1), axis=1)
         count = tf.reduce_sum(mask, axis=1, keepdims=True)
-        count = tf.where(count == 0, tf.ones_like(count), count)
         return sum_vectors / count
 
 
@@ -68,7 +67,7 @@ class TextVAE(tf.keras.Model):
                                  output_hidden_states = True).hidden_states[-2]
         residual = hidden_states
         hidden_states = self.h.ln_1(hidden_states)
-        attn_output = self.h.attn(hidden_states, None, None, None, None, False, False, False)[0]
+        attn_output = self.h.attn(hidden_states, None, None, None, None, False, False, True)[0]
         hidden_states = attn_output + residual
         hidden_states = self.h.ln_2(hidden_states)
         hidden_states = self.h.mlp.c_fc(hidden_states)
@@ -76,6 +75,10 @@ class TextVAE(tf.keras.Model):
 
 
     def get_bias(self, input_ids, mask, do_sample):
+        # hidden_states = self.get_hidden_states(input_ids, mask)
+        # hidden_states = self.get_masked_average(hidden_states, mask)
+        # print(hidden_states)
+        # return hidden_states, 0
         hidden_states = self.get_hidden_states(input_ids, mask)
         hidden_states = self.amplifier(hidden_states)
         hidden_states = self.get_masked_average(hidden_states, mask)
@@ -88,13 +91,13 @@ class TextVAE(tf.keras.Model):
 
 
     def call(self, inputs, training = True):
-        input_ids, mask = inputs['input_ids'], inputs['attention_mask']
+        input_ids, mask = inputs['input_ids'], tf.cast(inputs['attention_mask'], tf.float32)
         bias, kl_loss = self.get_bias(input_ids, mask, False)
         logits = TextVAE.gpt_forward(input_ids[:, :-1], mask[:, :-1] if mask is not None else None, bias)
         loss = self.loss_fn(input_ids[:, 1:], logits)
         if mask is not None: loss = tf.reduce_sum(loss * mask[:, 1:]) / tf.reduce_sum(mask[:, 1:])
         else: loss = tf.reduce_mean(loss)
-        if tf.math.reduce_any(tf.math.is_nan(loss + 0)): 
+        if tf.math.reduce_any(tf.math.is_nan(loss + kl_loss)): 
           loss = tf.zeros_like(loss)
           kl_loss = tf.zeros_like(kl_loss)
         return loss #, 0.01 * kl_loss
@@ -102,10 +105,15 @@ class TextVAE(tf.keras.Model):
 
 
 if __name__ == '__main__':
-    gpt = TFGPT2LMHeadModel.from_pretrained('distilgpt2')
+    # gpt = TFGPT2LMHeadModel.from_pretrained('distilgpt2')
+    # input_ids = tf.constant([[1, 2, 3]], dtype=tf.int32)
+    # mask = tf.constant([[1, 1, 0]], dtype=tf.float32)
+    # logits1 = gpt(input_ids, attention_mask = mask).logits * tf.expand_dims(mask, axis=-1)
+    # bias = tf.zeros((1, 768 * 4), dtype=tf.float32)
+    # logits2 = TextVAE.gpt_forward(input_ids, mask, bias) * tf.expand_dims(mask, axis=-1)
+    # print(tf.reduce_sum(tf.abs(logits1 - logits2)))
+
     input_ids = tf.constant([[1, 2, 3]], dtype=tf.int32)
     mask = tf.constant([[1, 1, 0]], dtype=tf.float32)
-    logits1 = gpt(input_ids, attention_mask = mask).logits * tf.expand_dims(mask, axis=-1)
-    bias = tf.zeros((1, 768 * 4), dtype=tf.float32)
-    logits2 = TextVAE.gpt_forward(input_ids, mask, bias) * tf.expand_dims(mask, axis=-1)
-    print(tf.reduce_sum(tf.abs(logits1 - logits2)))
+    model = TextVAE()
+    model({'input_ids':input_ids, 'attention_mask':mask})
